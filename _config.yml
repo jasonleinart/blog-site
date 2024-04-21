@@ -64,8 +64,6 @@ menu:
     url:               /posts/
   - title:             Media & Press
     url:               /media_and_press/
-  - title:             FireflyBase.org
-    url:               http://www.fireflybase.org
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -138,7 +136,7 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-121214450-1
+google_analytics:      
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
