@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              "Tim Fallon, PhD"
-  email:             tfallon@ucsd.edu
+  name:              "Jason Leinart"
+  email:             dspjson@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -56,7 +56,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         photocyte
-    github:          photocyte
+    github:          jasonleinart
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -86,7 +86,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        timfallonphd
+    linkedin:        jason-leinart
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
