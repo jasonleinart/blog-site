@@ -4,8 +4,7 @@ title: What I'm focused on now
 menu: true
 order: 3
 ---
-April 21st, 2024.
-{:.note title="Updated"}
+<p class="note" title="Updated">April 21st, 2024</p>
 
 You can add a note.
 {:.note}
