@@ -10,6 +10,7 @@ order: 3
 31st Street Capital acquires flooring companies in the United States.
 * SEO + SEM
 * Marketing Automation
+  
 ### May, 2015 - June, 2020: Marketing Director, Detroit Optimist Society
 Detroit Optimist Society is an industry-leading hospitality company with nationally recognized bar and restaurant concepts in Detroit.
 * Business development
@@ -28,4 +29,4 @@ Detroit Optimist Society is an industry-leading hospitality company with nationa
 
 ### GED Tutor - Adult Education Program, The Learning Source
 
-
+<!--author-->
