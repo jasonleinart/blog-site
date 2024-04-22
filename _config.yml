@@ -6,7 +6,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://jasonleinart.github.io
+url:                   https://jasonleinart.com
 github_username:       jasonleinart
 
 # IMPORTANT: Set The "base URL" of your site.
@@ -15,7 +15,7 @@ github_username:       jasonleinart
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               'blog-site'
+# baseurl:               'blog-site'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
