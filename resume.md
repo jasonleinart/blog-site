@@ -4,7 +4,7 @@ title: Resume
 menu: true
 order: 3
 ---
-## 💼 Professional Experiences
+## 💼 Professional Experience
 
 ### June, 2021 - Present: Digital Marketing Manager, 31st Street Capital
 31st Street Capital acquires flooring companies in the United States.
@@ -17,10 +17,14 @@ Detroit Optimist Society is an industry-leading hospitality company with nationa
 * Social media marketing
 * Brand strategy
 
+#### 📚 Professional Certifications
+* ChatGPt Prompt Engineering, Vanderbilt University
+
 ## 🎓 Education
 
 ### Master's in Business Analytics, University of Michigan - Dearborn (In-Progress)
 * 4.0 GPA
+* Relevant Courses: Advanced Statistical Modeling, Simulation, Six Sigma
 
 ### B.A. Economics, University of Michigan - Dearborn
 * Minor: IT
