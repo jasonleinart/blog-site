@@ -4,7 +4,7 @@ title: Resume
 menu: true
 order: 3
 ---
-## Professional Experiences
+## 💼 Professional Experiences
 
 ### June, 2021 - Present: Digital Marketing Manager, 31st Street Capital
 31st Street Capital acquires flooring companies in the United States.
