@@ -72,7 +72,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Jason Leinart © 2024. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+copyright:             Jason Leinart © 2024.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
