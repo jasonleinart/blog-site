@@ -46,8 +46,8 @@ logo:                  https://avatars3.githubusercontent.com/u/12517705?s=400&u
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Tim Fallon, PhD
-  email:               tfallon@ucsd.edu
+  name:                Jason Leinart
+  email:               dspjson@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             photocyte
   picture:             /images/avatar.png
@@ -79,7 +79,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /page-:num/
+paginate_path:         '/:num/'
 
 
 # Customizaton
