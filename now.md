@@ -6,9 +6,6 @@ order: 3
 ---
 <p class="note" title="Updated">April 21st, 2024</p>
 
-You can add a note.
-{:.note}
-
 ## Doing
 * Marketing automation
 * Business intelligence dashboards
