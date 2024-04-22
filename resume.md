@@ -17,7 +17,7 @@ Detroit Optimist Society is an industry-leading hospitality company with nationa
 * Social media marketing
 * Brand strategy
 
-## Education
+## 🎓 Education
 
 ### Master's in Business Analytics, University of Michigan - Dearborn (In-Progress)
 * 4.0 GPA
