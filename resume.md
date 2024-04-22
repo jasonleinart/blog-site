@@ -4,3 +4,4 @@ title: Resume
 menu: true
 order: 3
 ---
+<!--resume-->
