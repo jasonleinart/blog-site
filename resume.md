@@ -17,7 +17,7 @@ Detroit Optimist Society is an industry-leading hospitality company with nationa
 * Social media marketing
 * Brand strategy
 
-#### 📚 Professional Certifications
+### 📚 Certifications
 * ChatGPt Prompt Engineering, Vanderbilt University
 
 ## 🎓 Education
