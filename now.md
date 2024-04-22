@@ -7,6 +7,9 @@ order: 3
 April 21st, 2024.
 {:.note title="Updated"}
 
+You can add a note.
+{:.note}
+
 ## Doing
 * Marketing automation
 * Business intelligence dashboards
