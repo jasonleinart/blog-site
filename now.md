@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Now
 menu: true
 order: 3
 ---
