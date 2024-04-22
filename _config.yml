@@ -32,7 +32,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  biologist, biochemist, genomics enthusiast, natural products disciple, postdoc @ SIO/UCSD
+  STRATEGY + MARKETING + DATA
 # A Jekyll theme with JavaScript powers.
 # Open `_config.yml` to edit this text.
 
@@ -56,14 +56,14 @@ author:
 menu:
   - title:             Publications
     url:               /publications/
-  - title:             Research
-    url:               /research/
+  - title:             Resume
+    url:               /resume/
   - title:             About
     url:               /about/
   - title:             Blog
     url:               /posts/
-  - title:             Media & Press
-    url:               /media_and_press/
+  - title:             NOW
+    url:               /now/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -74,7 +74,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Timothy R. Fallon © 2022. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+copyright:             Jason Leinart © 2024. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -140,7 +140,7 @@ google_analytics:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                 photocyte-github-io
+# disqus:                 photocyte-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -306,7 +306,7 @@ twitter:
 
 # Used on index and about sites
 social:
-   name:                Timothy Fallon
+   name:                Jason Leinart
    links:
      - https://twitter.com/photocyte
      - https://github.com/photocyte
