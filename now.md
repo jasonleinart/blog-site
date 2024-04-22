@@ -4,6 +4,10 @@ title: What I'm focused on now
 menu: true
 order: 3
 ---
+'''
+Theme: 
+'''
+
 ## Doing
 * Marketing automation
 * Business intelligence dashboards
