@@ -15,7 +15,9 @@ order: 3
 Detroit Optimist Society is an industry-leading hospitality company with nationally recognized bar and restaurant concepts in Detroit.
 * Business development
 * Social media marketing
-* Brand strategy<br>
+* Brand strategy
+
+---
 
 ## 📚 Professional Certifications
 * ChatGPt Prompt Engineering, Vanderbilt University
