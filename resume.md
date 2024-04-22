@@ -28,5 +28,8 @@ Detroit Optimist Society is an industry-leading hospitality company with nationa
 ## Community Involvement
 
 ### GED Tutor - Adult Education Program, The Learning Source
+* Helping students acheive their goal of passing the GED test
 
+
+#### About
 <!--author-->
