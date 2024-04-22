@@ -4,10 +4,10 @@ title: What I'm focused on now
 menu: true
 order: 3
 ---
-# Doing
+## Doing
 
-# Learning 
+## Learning 
 
-# Reading 
+## Reading 
 
-# Listening 
+## Listening 
