@@ -17,3 +17,7 @@ order: 3
 
 ## Listening 
 * Taylor Swift
+
+## Reflecting
+> “The challenge of modernity is to live without illusions and without becoming disillusioned. I’m a pessimist because of intelligence, but an optimist because of will.” - Gramsci
+
