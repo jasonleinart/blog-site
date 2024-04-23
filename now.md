@@ -13,7 +13,8 @@ order: 3
 * Markdown
 
 ## Reading 
-* Radical Acceptance
+I keep a few books handy at all times.
+* [Radical Acceptance](https://www.amazon.com/Radical-Acceptance-Embracing-Heart-Buddha/dp/0553380990)
 
 ## Listening 
 * Taylor Swift
