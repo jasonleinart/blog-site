@@ -12,6 +12,10 @@ order: 3
 ## Doing
 * Marketing automation in Go High Level
 * Google Business Intelligence Professional Certificate - currently [Coursera: Decisions, Decisions: Dashboards and Reports](https://www.coursera.org/learn/decisions-decisions-dashboards-and-reports)
+* AI / ChatGPT
+    * Prompt Engineering
+    * Data Analysis
+    * Custom AI Assitants
 
 ## Learning 
 * Tableau
