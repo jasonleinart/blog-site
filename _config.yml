@@ -27,7 +27,7 @@ title:                 Jason Leinart
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
+  Jason Leinart is 
   **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
@@ -287,7 +287,7 @@ plugins:
 # google_site_verification: <verification-id>
 # -- or --
 # webmaster_verifications:
-#   google:              <verification-id>
+   google:              4f3FizJ5JpaHwL7xfxkR6XEQoNQ6O8wab2wPDWNT4kc
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
