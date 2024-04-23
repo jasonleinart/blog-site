@@ -11,7 +11,7 @@ order: 3
 
 ## Doing
 * Marketing automation in Go High Level
-* Business intelligence dashboards
+* [Coursera: Decisions, Decisions: Dashboards and Reports](https://www.coursera.org/learn/decisions-decisions-dashboards-and-reports)
 
 ## Learning 
 * Tableau
