@@ -6,7 +6,7 @@ order: 3
 ---
 📍 Denver + Detroit
 
-For the last few year's I've called Colorado my home, showing up with only what fit in my car after getting laid off during Covid. During my bangs era here I've enjoyed spending time in the mountains hiking, camping, and wandering down every side road I stumble upon with my rescue lab/pittie Pepper. I'm fortunate to have wonderfully supportive family and friends that have visited many times. 
+For the last few year's I've called Colorado my home, showing up jobless with only what fit in my car after getting laid off during Covid. During my bangs era here I've enjoyed spending time in the mountains hiking, camping, and wandering down every side road I stumble upon with my rescue lab/pittie Pepper. I'm fortunate to have wonderfully supportive family and friends that have visited many times. 
 
 Professionally, I'm a Digital Marketing Manager at 31st Street Capital, a family-owned private equity company building a portfolio of companies in the home improvement industry. 
 
