@@ -4,8 +4,6 @@ title: What I'm focused on now
 menu: true
 order: 3
 ---
-<p class="note" title="Updated">April 21st, 2024</p>
-
 ## Doing
 * Marketing automation
 * Business intelligence dashboards
