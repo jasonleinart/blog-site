@@ -287,7 +287,7 @@ plugins:
 # google_site_verification: <verification-id>
 # -- or --
 # webmaster_verifications:
-   google:              4f3FizJ5JpaHwL7xfxkR6XEQoNQ6O8wab2wPDWNT4kc
+   google:             google-site-verification=4f3FizJ5JpaHwL7xfxkR6XEQoNQ6O8wab2wPDWNT4kc	
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
