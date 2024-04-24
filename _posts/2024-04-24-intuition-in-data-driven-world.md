@@ -6,8 +6,6 @@ description: >
 tags: [data]
 comments: true
 ---
-Introduction
-
 Set the Scene: Briefly describe the current prevalence of data-driven decision-making in various sectors such as business, healthcare, and education.
 
 Introduce the Issue: Mention the growing concern that reliance on data may overshadow valuable non-quantifiable factors such as intuition and personal experience.
