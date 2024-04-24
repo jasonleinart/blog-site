@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond Numbers: Reclaiming the Role of Intuition and Experience in Our Data-Driven World
+title: Something Else
 description: >
   How to get your LC/MS data analysis off the instrument computer and onto your laptop
 tags: [blog,lc/ms]
