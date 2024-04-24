@@ -58,7 +58,7 @@ menu:
   - title:             Now
     url:               /now/
   - title:             Blog
-    url:               /blog/
+    url:               /blog_page/
   - title:             Resume
     url:               /resume/
 
@@ -78,7 +78,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         '/blog-:num/'
+paginate_path:         /blog_page/:num/
 
 
 # Customizaton
