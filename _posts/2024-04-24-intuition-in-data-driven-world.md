@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond Numbers: Reclaiming the Role of Intuition and Experience in Our Data-Driven World
+title: Beyond Numbers: Reclaiming the Role of Intuition and Experience in Our Data Driven World
 description: >
   Explore how the emphasis on data-driven decision-making overlooks the critical roles of intuition and experience. This article discusses the balance needed between analytical and intuitive approaches, drawing insights from leaders like Jeff Bezos and Albert Einstein.
 tags: [data]
