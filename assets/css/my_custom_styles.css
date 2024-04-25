@@ -22,7 +22,7 @@
 /* Styling for separator */
 .breadcrumb-item + .breadcrumb-item::before {
   content: " / "; /* Separator character */
-  padding: 0 5px; /* Space around the separator */
+  padding: 0 3px; /* Space around the separator */
   color: #6c757d; /* Dark gray for the separator */
 }
 
