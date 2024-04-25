@@ -16,17 +16,40 @@
 
 layout: base
 ---
+---
+layout: base
+---
 <nav aria-label="Breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="{{ site.baseurl }}/">Home</a></li>
-    {% for crumb in page.breadcrumbs %}
-    <li class="breadcrumb-item">
-      <a href="{{ site.baseurl }}{{ crumb.url }}">{{ crumb.title }}</a>
-    </li>
-    {% endfor %}
+    <li class="breadcrumb-item"><a href="{{ site.baseurl }}/blog">Blog</a></li> <!-- Static link to your blog listing page -->
+    {% if page.breadcrumbs %}
+      {% for crumb in page.breadcrumbs %}
+        <li class="breadcrumb-item">
+          <a href="{{ site.baseurl }}{{ crumb.url }}">{{ crumb.title }}</a>
+        </li>
+      {% endfor %}
+    {% endif %}
     <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
   </ol>
 </nav>
+
+{% include components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image %}
+
+<hr class="dingbat related" />
+
+{% assign addons = page.addons | default:site.hydejack.post_addons %}
+{% unless addons %}{% assign addons = "about,newsletter,related,random" | split:"," %}{% endunless %}
+{% for addon in addons %}
+  {% case addon %}
+  {% when 'about' %}
+     {% include components/about.html %}
+  {% when 'related' %}
+    {% include components/related-posts.html post=page %}
+  {% else %}
+  {% endcase %}
+{% endfor %}
+
 
 {% include components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image %}
 
