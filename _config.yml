@@ -293,7 +293,7 @@ plugins:
 
 # Used for Twitter cards
 twitter:
-   username:            photocyte
+   username:            jtleinart
 
 # Used for Facebook open graph
 # facebook:
@@ -305,9 +305,8 @@ twitter:
 social:
    name:                Jason Leinart
    links:
-     - https://twitter.com/photocyte
-     - https://github.com/photocyte
-     - https://www.fireflybase.org
+     - https://twitter.com/jtleinart
+     - https://github.com/jasonleinart
 
 
 # Other Plugins
