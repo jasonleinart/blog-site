@@ -16,6 +16,17 @@
 
 layout: base
 ---
+<nav aria-label="Breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="{{ site.baseurl }}/">Home</a></li>
+    {% for crumb in page.breadcrumbs %}
+    <li class="breadcrumb-item">
+      <a href="{{ site.baseurl }}{{ crumb.url }}">{{ crumb.title }}</a>
+    </li>
+    {% endfor %}
+    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>
 
 {% include components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image %}
 
