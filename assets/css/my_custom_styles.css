@@ -2,7 +2,7 @@
 .breadcrumb {
   padding: 8px 15px; /* Adjusts the padding around the breadcrumb */
   list-style: none; /* Removes default list styling */
-  background-color: #f8f9fa; /* Light grey background, you can change this */
+  #background-color: #f8f9fa; /* Light grey background, you can change this */
   border-radius: 5px; /* Optional: rounds the corners of the breadcrumb container */
   margin-bottom: 20px; /* Space below the breadcrumb */
 }
