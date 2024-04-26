@@ -85,7 +85,7 @@ paginate_path:         /blog/:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          assets/Untitled_Panorama-3 copy.jpg
+accent_image:          assets/background.jpeg
 accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
