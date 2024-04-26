@@ -74,7 +74,7 @@ menu:
 copyright:             Jason Leinart © 2024.
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+permalink:             /:categories/:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
@@ -85,7 +85,7 @@ paginate_path:         /blog/:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          assets/background.jpeg
+accent_image:          assets/Untitled_Panorama-3 copy.jpg
 accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
@@ -133,7 +133,7 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      
+# google_analytics:      
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
