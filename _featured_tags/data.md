@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: list
 title: Data
 slug: data
 menu: true
