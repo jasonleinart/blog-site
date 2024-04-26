@@ -12,7 +12,7 @@ comments: true
 Thesis 
 - A paradigm shift in leadership  
 - Background 
-    - Post zirp business landscape not favorable to [luxury beliefs])https://www.robkhenderson.com/p/how-the-luxury-beliefs-of-an-educated) about management and leadership. Many reputations, business models, and conventional wisdoms will not be applicable.
+    - Post zirp business landscape not favorable to [luxury beliefs])https://www.robkhenderson.com/p/how-the-luxury-beliefs-of-an-educated){:target="_blank"} about management and leadership. Many reputations, business models, and conventional wisdoms will not be applicable.
     - Product life cycle framework suggests mass adoption of leadership theory based on knowledge worker signals opportunity for disruption. If everybody is a leader nobody is a leader.
     - Many highly skilled professionals are looking for autonomy and flexibility, but also to escape systems of patronage and propaganda masking as culture. They are fine with transactional relationships and will give their best as long as there are interesting problems to solve. 
 
