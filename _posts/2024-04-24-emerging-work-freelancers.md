@@ -16,12 +16,12 @@ Thesis
     - Product life cycle framework suggests mass adoption of leadership theory based on knowledge worker signals opportunity for disruption. If everybody is a leader nobody is a leader.
     - Many highly skilled professionals are looking for autonomy and flexibility, but also to escape systems of patronage and propaganda masking as culture. They are fine with transactional relationships and will give their best as long as there are interesting problems to solve. 
 
-Problem 
-* Marta is under intense pressure to help the company move faster to market by implementing more-sophisticated digital and conversational AI capabilities. But her in-house talent lacks the deep expertise and experience necessary to transform the company’s offerings, processes, and data and security infrastructures, and her recruitment team has been unable to pry away top professionals from tech firms, despite making generous offers.
+Scenario 
+* Marta is under **intense pressure to help the company move faster** to market by implementing more-sophisticated digital and conversational AI capabilities. But **her in-house talent lacks the deep expertise and experience necessary** to transform the company’s offerings, processes, and data and security infrastructures, and **her recruitment team has been unable to pry away top professionals from tech firms**, despite making generous offers.
 
 Scale 
 * Upwork’s December 2023 study of 3,000 professionals put the number at 38%, or 64 million workers. Of these, one-third were earning more than $150,000 a year, and just over half were providing knowledge services—such as computer programming, marketing, IT, and business consulting.
-* Significantly, 52% of Gen Z workers and 43% of Millennials were freelancers in 2023. And the shift is catching on globally: Gartner predicts that independent workers will make up 35% to 40% of the global workforce by 2025.
+* Significantly, 52% of Gen Z workers and 43% of Millennials were freelancers in 2023. And the shift is catching on globally: **Gartner predicts that independent workers will make up 35% to 40% of the global workforce by 2025**.
 
 Challenge 
 * Integrating and managing what we call the “blended workforce” will be one of the main managerial challenges in the years ahead.
