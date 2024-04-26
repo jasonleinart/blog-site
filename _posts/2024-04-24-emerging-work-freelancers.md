@@ -14,7 +14,7 @@ Thesis
 - Background 
     - Post zirp business landscape not favorable to [luxury beliefs](https://www.robkhenderson.com/p/how-the-luxury-beliefs-of-an-educated){:target="_blank"} about management and leadership. Many reputations, business models, and conventional wisdoms will not be applicable.
     - Product life cycle framework suggests mass adoption of leadership theory based on knowledge worker signals opportunity for disruption. If everybody is a leader nobody is a leader.
-    - Many highly skilled professionals are looking for autonomy and flexibility, but also to escape systems of patronage and propaganda masking as culture. They are fine with transactional relationships and will give their best as long as there are interesting problems to solve. 
+    - Many highly skilled professionals are looking for autonomy and flexibility, but also to escape systems of patronage and propaganda masking as culture. They are fine with transactional relationships and will give their best as long as there are [interesting problems to solve](https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/problem-led-leadership-mit-style-leading){:target="_blank"}. 
 
 Scenario 
 * Marta is under **intense pressure to help the company move faster** to market by implementing more-sophisticated digital and conversational AI capabilities. But **her in-house talent lacks the deep expertise and experience necessary** to transform the company’s offerings, processes, and data and security infrastructures, and **her recruitment team has been unable to pry away top professionals from tech firms**, despite making generous offers.
