@@ -19,6 +19,9 @@ order: 3
 * Tableau
 * Markdown
 
+## Writing
+* [Embracing Change](https://jasonleinart.com/emerging-work-freelancers/) - thoughts on how leading businesses are adapting to a growing freelance economy, managing blended workforces, and maintaining company culture in the face of changing worker preferences.
+
 ## Reading 
 I keep a few books handy at all times.
 * [Radical Acceptance](https://www.amazon.com/Radical-Acceptance-Embracing-Heart-Buddha/dp/0553380990)
