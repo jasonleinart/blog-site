@@ -229,7 +229,7 @@ collections:
     output:            true
 
   featured_tags:
-    permalink:         /tag-:name/
+    permalink:         /blog-:name/
     output:            true
 
   projects:
