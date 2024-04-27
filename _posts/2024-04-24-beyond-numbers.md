@@ -20,7 +20,7 @@ Risk of Data: [Tyranny of Metrics](https://www.socratesheadofschool.com/books/ty
 
 Insights from Jeff Bezos
 
-Case Study: Utilize the information from the article on Jeff Bezos, who emphasizes intuition and gut feeling as essential components of his decision-making process​​.
+Case Study: Utilize the information from the [article on Jeff Bezos](https://www.inc.com/business-insider/amazon-ceo-jeff-bezos-says-his-best-decision-were-made-when-he-followed-his-gut.html){:target="blank"}, who emphasizes intuition and gut feeling as essential components of his decision-making process​​.
 
 Key Quotes: Highlight Bezos' statement that his best decisions were based on "heart, intuition, guts... not analysis" and how he values the "power of wandering"​​.
 
