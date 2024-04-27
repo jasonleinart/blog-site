@@ -16,13 +16,13 @@ Historical Context: Explain how the rise of big data and advanced analytics tool
 
 Benefits of Data: Acknowledge the advantages of data-driven decisions, such as increased efficiency, measurable outcomes, and reduced biases in specific scenarios.
 
+Risk of Data: [Tyranny of Metrics](https://www.socratesheadofschool.com/books/tyrannyofmetrics){:target="_blank"}
+
 Insights from Jeff Bezos
 
 Case Study: Utilize the information from the article on Jeff Bezos, who emphasizes intuition and gut feeling as essential components of his decision-making process​​.
 
 Key Quotes: Highlight Bezos' statement that his best decisions were based on "heart, intuition, guts... not analysis" and how he values the "power of wandering"​​.
-
-[Tyranny of Metrics](https://www.socratesheadofschool.com/books/tyrannyofmetrics)
 
 Einstein’s Perspective on Intuition
 
