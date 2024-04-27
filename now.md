@@ -4,6 +4,9 @@ title: What I'm focused on now
 menu: true
 order: 3
 ---
+- Table of Contents
+{:toc .large-only}
+
 ## Reflecting
 > "Show me the incentive and I will show you the outcome" - Charie Munger
 
