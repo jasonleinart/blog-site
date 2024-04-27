@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Embracing The Shift
+title: Embracing The Shift (WIP)
 description: >
   Explore how leading businesses are adapting to a growing freelance economy, managing blended workforces, and maintaining company culture in the face of changing worker preferences.
 tags: [leadership]
@@ -12,8 +12,8 @@ comments: true
 Thesis 
 - A paradigm shift in leadership  
 - Background 
-    - Post zirp business landscape not favorable to [luxury beliefs](https://www.robkhenderson.com/p/how-the-luxury-beliefs-of-an-educated){:target="_blank"} about management and leadership. Many reputations, business models, and conventional wisdoms will not be applicable.
-    - Product life cycle framework suggests mass adoption of leadership theory based on knowledge worker signals opportunity for disruption. If everybody is a leader nobody is a leader.
+    - Post zirp business landscape not favorable to [luxury beliefs](https://www.robkhenderson.com/p/how-the-luxury-beliefs-of-an-educated){:target="_blank"} about management and leadership. Many reputations, business models, and conventional wisdoms will struggle in the new monetary framework, by design. Tom Hagen wasn't a wartime consigliere. Odyssues couldn't get home until he humbly acknowledged the same skills in battle were an obstacle in peacetime. Two sides of the coin.
+    - Product life cycle framework suggests mass adoption of leadership theory based on knowledge worker signals opportunity for disruption. Jack Welch was a hero until he wasn't. If everybody is a leader, nobody is a leader.
     - Many highly skilled professionals are looking for autonomy and flexibility, but also to escape systems of patronage and propaganda masking as culture. They are fine with transactional relationships and will give their best as long as there are [interesting problems to solve](https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/problem-led-leadership-mit-style-leading){:target="_blank"}. 
 
 Scenario 
@@ -28,6 +28,10 @@ Challenge
     * Culture + values
     * Authority 
     * Knowledge dependency
+ 
+Risks
+* Talent pool for in-house leadership pipeline becomes substantially more risk-averse as it self-selects for comfort and stability.
+* Full-time model could be at risk as concentrated political power to alter benefits system becomes a possibility if in-house offers don't improve.
  
 <br>
 <br>
