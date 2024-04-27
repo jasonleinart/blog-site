@@ -9,6 +9,7 @@ order: 3
 
 ## Doing
 * Marketing automation in Go High Level
+    * Zapier + system APIs
 * Google Business Intelligence Professional Certificate - currently [Coursera: Decisions, Decisions: Dashboards and Reports](https://www.coursera.org/learn/decisions-decisions-dashboards-and-reports)
 * AI / ChatGPT
     * Prompt Engineering
@@ -26,6 +27,11 @@ order: 3
 I keep a few books handy at all times.
 * [Radical Acceptance](https://www.amazon.com/Radical-Acceptance-Embracing-Heart-Buddha/dp/0553380990)
 * [The Hamlet](https://en.wikipedia.org/wiki/The_Hamlet)
+
+## Watching
+Slowing down on shows, tapping back into cinema
+* The Passenger (1975)
+* Perfect Days (2023)
 
 ## Listening 
 Podcasts + music
