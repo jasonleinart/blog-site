@@ -3,6 +3,7 @@ layout: post
 title: Embracing The Shift (WIP)
 description: >
   Explore how leading businesses are adapting to a growing freelance economy, managing blended workforces, and maintaining company culture in the face of changing worker preferences.
+featured_image: assets/freelanceworkers.jpg
 tags: [leadership]
 comments: true
 ---
