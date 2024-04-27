@@ -22,6 +22,8 @@ Case Study: Utilize the information from the article on Jeff Bezos, who emphasiz
 
 Key Quotes: Highlight Bezos' statement that his best decisions were based on "heart, intuition, guts... not analysis" and how he values the "power of wandering"​​.
 
+[Tyranny of Metrics](https://www.socratesheadofschool.com/books/tyrannyofmetrics)
+
 Einstein’s Perspective on Intuition
 
 Einstein’s Quote: Introduce the quote attributed to Einstein about the intuitive mind being a sacred gift and the rational mind a faithful servant, discussing its implications.
