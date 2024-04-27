@@ -3,7 +3,7 @@ layout: post
 title: Beyond Numbers
 description: >
   Explore how the emphasis on data-driven decision-making overlooks the critical roles of intuition and experience. This article discusses the balance needed between analytical and intuitive approaches, drawing insights from leaders like Jeff Bezos and Albert Einstein.
-tags: [data]
+tags: [data,leadership]
 comments: true
 ---
 Set the Scene: Briefly describe the current prevalence of data-driven decision-making in various sectors such as business, healthcare, and education.
