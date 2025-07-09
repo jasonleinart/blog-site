@@ -58,7 +58,7 @@ This site is my research notebook, project log, and thinking space. I write to c
 
 I'm always interested in connecting with others working at the intersection of AI, automation, and human intelligence:
 
-**Email:** jason@jasonleinart.com  
+**Email:** dspjson@gmail.com  
 **GitHub:** [@jasonleinart](https://github.com/jasonleinart)  
 **LinkedIn:** [Connect with me](https://linkedin.com/in/jasonleinart)
 

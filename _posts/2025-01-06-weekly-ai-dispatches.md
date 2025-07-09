@@ -95,7 +95,7 @@ Words matter. They shape how we think about implementation and adoption.
 
 **If you could only build one AI-powered system for your organization, what would it be and why?**
 
-I'm curious how different people prioritize AI implementation. Drop me a line at jason@jasonleinart.com or connect with me on LinkedIn to continue the conversation.
+I'm curious how different people prioritize AI implementation. Drop me a line at dspjson@gmail.com or connect with me on LinkedIn to continue the conversation.
 
 ---
 

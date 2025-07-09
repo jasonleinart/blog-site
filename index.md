@@ -57,7 +57,7 @@ I'm currently deep in building AI-powered research and automation workflows, pur
 
 If you're navigating the AI frontier too, I'd love to hear from you:
 
-- **Email:** jason@jasonleinart.com
+- **Email:** dspjson@gmail.com
 - **GitHub:** [@jasonleinart](https://github.com/jasonleinart)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/jasonleinart)
 

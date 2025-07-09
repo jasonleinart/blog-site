@@ -72,7 +72,7 @@ hide_description: false
 
 If you're working on similar problems or have insights to share, I'd love to connect:
 
-- **Email:** jason@jasonleinart.com
+- **Email:** dspjson@gmail.com
 - **GitHub:** [@jasonleinart](https://github.com/jasonleinart)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/jasonleinart)
 
