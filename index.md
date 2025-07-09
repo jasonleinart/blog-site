@@ -34,6 +34,14 @@ Frameworks for thinking through AI complexity. Essays on strategy, decision-maki
 
 ---
 
+## Stay Updated
+
+Get new insights delivered directly to your inbox. Join the community exploring the practical side of AI:
+
+<iframe src="https://jasonleinart.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+---
+
 ## Current Focus
 
 I'm currently deep in building AI-powered research and automation workflows, pursuing AWS certification, and exploring how AI can amplify rather than replace human intelligence. You can see what I'm working on right now on my **[Now page](/now/)**.
