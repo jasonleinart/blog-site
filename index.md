@@ -34,16 +34,6 @@ Frameworks for thinking through AI complexity. Essays on strategy, decision-maki
 
 ---
 
-## Why "Field Notes"?
-
-We're living through the most significant technological shift since the internet. AI isn't just another tool—it's fundamentally changing how we think, work, and solve problems. But most of the conversation happens at either the 30,000-foot academic level or in marketing fluff.
-
-**I'm reporting from the middle ground:** the practical reality of actually building with AI. What works? What doesn't? How do you navigate the hype to find real value? How do you build systems that are both intelligent and reliable?
-
-These are my field notes from that exploration.
-
----
-
 ## Current Focus
 
 I'm currently deep in building AI-powered research and automation workflows, pursuing AWS certification, and exploring how AI can amplify rather than replace human intelligence. You can see what I'm working on right now on my **[Now page](/now/)**.
