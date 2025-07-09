@@ -79,7 +79,7 @@ legal:
 copyright:             © 2025 Jason Leinart. All rights reserved.
 
 # Format of the permalinks
-permalink:             /blog/:categories/:year-:month-:day-:title/
+permalink:             /blog/:categories/:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
