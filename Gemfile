@@ -16,9 +16,12 @@ gem "webrick"
 gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
 group :jekyll_plugins do
-  gem "github-pages"
   gem "jekyll-include-cache"
   gem "jekyll-compose"
+  gem "jekyll-feed"
+  gem "jekyll-sitemap"
+  gem "jekyll-paginate"
+  gem "jekyll-redirect-from"
 end
 
 gem 'wdm' if Gem.win_platform?
