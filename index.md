@@ -11,7 +11,7 @@ selected_projects:
 selected_posts:
   - _posts/2025-01-08-gpt-research-assistant-build.md
   - _posts/2025-01-07-agents-vs-automation.md
-  - _posts/2025-01-06-weekly-ai-dispatches.md
+  - _posts/2025-01-09-scaling-laws-what-they-really-tell-us.md
 more_projects: projects.md
 more_posts: posts.md
 featured: true
@@ -31,9 +31,6 @@ Technical documentation from real projects. Complete walkthroughs of AI agent wo
 
 ### 🧠 [Mental Models](/mental-models/)
 Frameworks for thinking through AI complexity. Essays on strategy, decision-making, and the big picture questions that shape how we approach artificial intelligence.
-
-### 📬 [Dispatches](/dispatches/)
-Quick reports from the field. Weekly insights, tool discoveries, research highlights, and observations that don't require a full post but are worth sharing.
 
 ---
 

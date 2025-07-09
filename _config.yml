@@ -56,8 +56,6 @@ menu:
     url:               /build-logs/
   - title:             Mental Models
     url:               /mental-models/
-  - title:             Dispatches
-    url:               /dispatches/
   - title:             Now
     url:               /now/
   - title:             Resume

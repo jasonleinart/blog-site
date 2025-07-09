@@ -58,7 +58,7 @@ hide_description: false
 - Launch 10+ Field Notes analyzing key AI research papers
 - Complete and document 3 major Build Log projects
 - Publish 2 comprehensive Mental Models essays
-- Build newsletter subscriber base through weekly Dispatches
+- Build community engagement through consistent quality content
 
 ### Longer-term Vision
 - Establish credibility as a thoughtful voice in practical AI application

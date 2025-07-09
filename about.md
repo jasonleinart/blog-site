@@ -76,7 +76,6 @@ It's part research notebook, part project documentation, part public learning ex
 - **[Field Notes](/field-notes/)** - Research paper analysis and insight extraction
 - **[Build Logs](/build-logs/)** - Technical project documentation  
 - **[Mental Models](/mental-models/)** - Strategic frameworks and big-picture thinking
-- **[Dispatches](/dispatches/)** - Quick insights and weekly updates
 - **[Now](/now/)** - Current focus and evolution tracking
 
 The site itself is an ongoing experiment in building systems that amplify human intelligence rather than replacing it.
