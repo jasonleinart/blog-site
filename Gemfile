@@ -22,6 +22,11 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
   gem "jekyll-redirect-from"
+  gem "jekyll-default-layout"
+  gem "jekyll-optional-front-matter"
+  gem "jekyll-readme-index"
+  gem "jekyll-titles-from-headings"
+  gem "jekyll-relative-links"
 end
 
 gem 'wdm' if Gem.win_platform?
