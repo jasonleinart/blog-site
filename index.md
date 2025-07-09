@@ -59,6 +59,6 @@ If you're navigating the AI frontier too, I'd love to hear from you:
 
 - **Email:** dspjson@gmail.com
 - **GitHub:** [@jasonleinart](https://github.com/jasonleinart)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/jasonleinart)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/jason-leinart)
 
 Ready to explore? Start with my latest **[Field Notes](/field-notes/)** or dive into a recent **[Build Log](/build-logs/)**.

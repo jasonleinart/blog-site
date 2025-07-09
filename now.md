@@ -74,6 +74,6 @@ If you're working on similar problems or have insights to share, I'd love to con
 
 - **Email:** dspjson@gmail.com
 - **GitHub:** [@jasonleinart](https://github.com/jasonleinart)
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/jasonleinart)
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/jason-leinart)
 
 *This page is inspired by [Derek Sivers' now page movement](https://nownownow.com/about)* 

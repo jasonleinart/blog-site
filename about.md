@@ -60,7 +60,7 @@ I'm always interested in connecting with others working at the intersection of A
 
 **Email:** dspjson@gmail.com  
 **GitHub:** [@jasonleinart](https://github.com/jasonleinart)  
-**LinkedIn:** [Connect with me](https://linkedin.com/in/jasonleinart)
+**LinkedIn:** [Connect with me](https://linkedin.com/in/jason-leinart)
 
 If you're building with AI, wrestling with similar questions, or just want to geek out about the future of work, I'd love to hear from you.
 
