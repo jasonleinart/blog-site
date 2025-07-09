@@ -1,6 +1,5 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
 description: >
   Jason Leinart: Exploring automation, intelligence, and the systems that shape our future.
   Field notes from someone building at the AI frontier.
