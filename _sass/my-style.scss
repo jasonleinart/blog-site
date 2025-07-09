@@ -1,0 +1,37 @@
+// Custom styles to fix mobile sidebar background bleed issue
+// and ensure proper background display
+
+.sidebar-bg {
+  // Fix mobile bleed by constraining background to sidebar area only
+  left: 0 !important;
+  width: 100% !important;
+  
+  // Ensure our solid color background takes precedence
+  background-size: cover !important;
+  background-position: center !important;
+  
+  // Remove any unwanted background images on mobile
+  @media screen and (max-width: 64em) {
+    background-image: none !important;
+  }
+}
+
+// Ensure sidebar container doesn't overflow on mobile
+.sidebar {
+  overflow: hidden;
+  
+  @media screen and (max-width: 64em) {
+    // Contain sidebar content properly on mobile
+    max-width: 100%;
+  }
+}
+
+// Fix content area to prevent background bleed
+.content {
+  @media screen and (max-width: 64em) {
+    // Ensure content area has proper background
+    background: var(--body-bg);
+    position: relative;
+    z-index: 1;
+  }
+}

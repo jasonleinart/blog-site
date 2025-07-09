@@ -1,0 +1,147 @@
+# Jason Leinart - Resume Data
+# Field Notes from the AI Frontier
+basics:
+  name: "Jason Leinart"
+  label: "AI Systems & Automation Specialist"
+  picture: ""
+  email: "jason@jasonleinart.com"
+  phone: "(313) 353-2228"
+  website: "https://jasonleinart.com"
+  summary: >
+    Digital professional with 10+ years of experience in marketing, operations, and systems optimization,
+    currently making a strategic pivot to AI and automation. I specialize in building intelligent systems 
+    that amplify human capabilities and solve complex operational challenges. Currently focused on cloud 
+    architecture, AI agent frameworks, and the practical application of machine learning in business contexts.
+  location:
+    address: ""
+    postalCode: ""
+    city: "Detroit"
+    countryCode: "US"
+    region: "MI"
+  profiles:
+    - network: "GitHub"
+      username: "jasonleinart"
+      url: "https://github.com/jasonleinart"
+    - network: "LinkedIn"
+      username: "Jason Leinart"
+      url: "https://linkedin.com/in/jasonleinart"
+
+work:
+  - company: "31st Street Capital"
+    position: "Digital Marketing Manager"
+    website: ""
+    startDate: "2021-06-01"
+    endDate: "2025-05-31"
+    summary: >
+      Full-time remote position managing comprehensive digital marketing operations for investment firm.
+      Responsible for multi-platform advertising strategy and marketing automation implementation.
+    highlights:
+      - "Manage $2.5M annually in Google/Facebook/Microsoft/TikTok advertising spend"
+      - "Implement marketing automation strategies in Go High Level"
+      - "Design and execute SEO strategies to improve website traffic and lead generation conversions"
+
+  - company: "Detroit Optimist Society Restaurant Group"
+    position: "Marketing Director"
+    website: ""
+    startDate: "2016-08-01"
+    endDate: "2020-08-31"
+    summary: >
+      The Detroit Optimist Society is the management group responsible for industry leading bars and restaurants
+      in Detroit including The Sugar House, Wright & Company, The Peterboro, Honest John's, Bad Luck, Mutiny,
+      and Grandma Bob's.
+    highlights:
+      - "Social media management for 7 brands totaling 100k followers on Instagram and 80k followers on Facebook. Oversaw 3 brand launches that each achieved 11k+ Instagram followers as leaders in their market niches"
+      - "Managed ad spend of $30K across Facebook and Instagram, including short term boosted posts and long-term strategic campaigns"
+      - "Executed website redesigns and updates at multiple properties that achieved annual revenue improvements of $60k in gift cards, events, and merchandise sales"
+      - "Launched the Sugar House Whiskey Society Facebook group that resulted in $30K annually in members only events and merchandise sales, as well as generating increased brand loyalty and enthusiastic brand ambassadors"
+      - "Developed system for reporting and analysis of all operational and marketing KPI's which informed decisions made on premises and at executive level"
+
+education:
+  - institution: "University of Michigan - Dearborn"
+    area: "Economics"
+    studyType: "Bachelor of Arts"
+    startDate: "2008-08-01"
+    endDate: "2012-08-31"
+    gpa: ""
+    courses:
+      - "Dean's List: 3 Semesters"
+      - "2nd Vice President, Delta Sigma Phi Fraternity"
+      - "Pledge Educator, Delta Sigma Phi Fraternity"
+
+volunteer:
+  - organization: "The Education Experience at St. Vincent and Sarah Fisher Center"
+    position: "GED Tutor"
+    website: ""
+    startDate: "2011-08-01"
+    endDate: "2020-03-31"
+    summary: "Provides educational programs, basic skill building and academic enhancement for at-risk children and adults."
+    highlights:
+      - "Worked with adult students on math and reading comprehension to help them achieve their goal of passing the GED test"
+
+publications:
+  - name: "OpenAI GPTs: Creating Your Own Custom AI Assistants"
+    publisher: "Vanderbilt University"
+    releaseDate: "2024-04-18"
+    website: "https://coursera.org/verify/4Y3MBGQ4GC6B"
+    summary: "Comprehensive course on building custom AI assistants using OpenAI's GPT technology, covering prompt engineering, ChatGPT integration, and AI personalization techniques."
+
+skills:
+  - name: "AI & Machine Learning"
+    keywords:
+      - "LangChain"
+      - "CrewAI"
+      - "OpenAI GPT"
+      - "AI Agent Architecture"
+      - "Prompt Engineering"
+
+  - name: "Cloud & Infrastructure"
+    keywords:
+      - "AWS (EC2, Lambda, S3)"
+      - "Google Cloud Platform"
+      - "Serverless Architecture"
+      - "API Integration"
+
+  - name: "Programming & Development"
+    keywords:
+      - "Python"
+      - "JavaScript"
+      - "API Development"
+      - "Data Analysis"
+      - "Git/GitHub"
+
+  - name: "Data & Analytics"
+    keywords:
+      - "Data Pipeline Design"
+      - "Analytics Implementation"
+      - "Business Intelligence"
+      - "Airtable/Database Design"
+
+  - name: "Systems & Operations"
+    keywords:
+      - "Process Automation"
+      - "Workflow Optimization"
+      - "Project Management"
+      - "Cross-functional Leadership"
+
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+
+interests:
+  - name: "AI Research & Development"
+    keywords:
+      - "Cognitive Architectures"
+      - "Agent Frameworks"
+      - "Research Paper Analysis"
+
+  - name: "Systems Thinking"
+    keywords:
+      - "Emergence & Complexity"
+      - "Automation Design"
+      - "Human-AI Collaboration"
+
+  - name: "Knowledge Management"
+    keywords:
+      - "Information Architecture"
+      - "Content Curation"
+      - "Learning Systems"
