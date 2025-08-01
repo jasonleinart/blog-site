@@ -305,26 +305,15 @@ In summary, **the multi-agent space is nascent and hungry for robust solutions**
 
 **Sources:**
 
-* LangChain Blog – *“LangGraph: Multi-Agent Workflows”* (LangChain, 2024) \
-
-* IBM – *“What is AutoGPT?”* (overview of autonomous multi-agent workflow and memory) \
-
-* Anthropic Engineering Blog – *“How we built our multi-agent research system”* (Jun 2025) \
-
-* LangChain Blog – *“How and when to build multi-agent systems”* (Jun 2025) \
-
-* Medium (Gary A. Fowler) – *“Enterprise Adoption of Multi-Agent LLMs”* (Jun 2025) \
-
-* Arize AI – *“Agent Observability and Tracing”* (2023) \
-
-* Medium (Cobus Greyling) – *“The Multi-AI Agent Gap”* (Mar 2025) \
-
-* Galileo.ai Blog – *“Centralized vs Distributed Multi-Agent Coordination”* (Apr 2025) \
-
-* Multimodal.dev – *“31 Top Agentic AI Vendors in 2025 (+3 Free Options)”* (Nov 2024) \
-
-* DevSquad Blog – *“Top 16 AI Agent Startups of 2025 + How to Launch Yours”* (Apr 2025) \
-
-* Foundation Capital – *“The Promise of Multi-Agent AI”* (May 2024) \
-
-* LangChain State of AI 2024 Report – trend data on agent adoption (Dec 2024) \
+- LangChain Blog — *[LangGraph: Multi-Agent Workflows](https://blog.langchain.com/langgraph-multi-agent-workflows/)*
+- IBM — *[What is AutoGPT?](https://www.ibm.com/think/topics/autogpt)*
+- Anthropic Engineering — *[How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system)*
+- LangChain Blog — *[How and when to build multi-agent systems](https://blog.langchain.com/how-and-when-to-build-multi-agent-systems/)*
+- Medium (Gary A. Fowler) — *[Enterprise Adoption of Multi-Agent LLMs](https://gafowler.medium.com/enterprise-adoption-of-multi-agent-llms-transforming-business-operations-5e63b49b8091)*
+- Arize AI — *[Agent Observability and Tracing](https://arize.com/ai-agents/agent-observability/)*
+- Medium (Cobus Greyling) — *[The Multi-AI Agent Gap](https://cobusgreyling.medium.com/the-multi-ai-agent-gap-897dc1427f97)*
+- Galileo.ai — *[Centralized vs Distributed Multi-Agent Coordination](https://galileo.ai/blog/multi-agent-coordination-strategies)*
+- Multimodal.dev — *[31 Top Agentic AI Vendors in 2025 (+3 Free Options)](https://www.multimodal.dev/post/36-top-agentic-ai-vendors-in-2024)*
+- DevSquad — *[Top 16 AI Agent Startups of 2025 + How to Launch Yours](https://devsquad.com/blog/ai-agent-startups)*
+- Foundation Capital — *[The Promise of Multi-Agent AI](https://foundationcapital.com/the-promise-of-multi-agent-ai/)*
+- LangChain — *[State of AI Agents Report](https://www.langchain.com/stateofaiagents)* and summary *[blog post](https://blog.langchain.com/langchain-state-of-ai-2024/)*
