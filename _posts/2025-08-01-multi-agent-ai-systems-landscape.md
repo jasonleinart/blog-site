@@ -8,6 +8,9 @@ tags: [mental-models, multi-agent, ai-systems, architecture, frameworks, enterpr
 description: >
   A comprehensive overview of multi-agent AI systems, their architectures, 
   required skills, infrastructure gaps, and monetizable opportunities for builders.
+image:
+  path: /assets/img/multiagent-hero-1920x1080.png
+  alt: "Multiple AI agents working together at computers in a futuristic setting"
 related_posts:
   - /mental-models/2025-01-07-agents-vs-automation
   - /build-logs/2025-01-08-gpt-research-assistant-build
