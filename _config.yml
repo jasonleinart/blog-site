@@ -39,8 +39,8 @@ keywords:              []
 # It also used by the `jekyll-seo-tag` plugin.
 # logo:                  /assets/img/logo.png
 
-# Disable favicon
-favicon:               false
+# Favicon path
+# favicon:               false
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # The default author for blog posts - must match key in _data/authors.yml
