@@ -12,8 +12,6 @@ accent_image:
 
 # 🧠 Mental Models
 
-Frameworks for thinking about AI, automation, and complex systems. These are the conceptual tools that help me navigate the rapidly changing landscape of artificial intelligence.
-
 ## What You'll Find Here
 
 - **Strategic Frameworks** - How to think about AI adoption and implementation
