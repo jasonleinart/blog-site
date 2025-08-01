@@ -3,7 +3,8 @@ layout: list
 title: Mental Models
 slug: mental-models
 description: >
-  Frameworks for thinking about AI, automation, and complex systems. These are the conceptual tools that help me navigate the rapidly changing landscape of artificial intelligence.
+  Essays and thinking tools from the edge—how I reason through complexity, 
+  systems, and strategy in AI and life.
 accent_color: rgb(156,39,176)
 accent_image:
   background: rgb(74,20,140)
@@ -11,6 +12,8 @@ accent_image:
 ---
 
 # 🧠 Mental Models
+
+Frameworks for thinking about AI, automation, and complex systems. These are the conceptual tools that help me navigate the rapidly changing landscape of artificial intelligence.
 
 ## What You'll Find Here
 
