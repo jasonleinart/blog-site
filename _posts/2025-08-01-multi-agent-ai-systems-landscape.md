@@ -161,7 +161,7 @@ Multi-agent AI systems are being explored – and in some cases deployed – acr
 
 * **Finance and Banking:** Multi-agent systems are used for tasks like portfolio management and risk analysis. For instance, a bank might use one agent to analyze market trends and news, another to assess portfolio performance, and another to check compliance with regulations. By sharing insights, they provide a comprehensive recommendation to human analysts or directly make adjustments within set limits . Also, in fraud detection, multiple agents might monitor different channels or types of transactions and collectively flag suspicious activity. 
 
-* **Internal Team Support:** Complex internal workflows (like onboarding a new hire or processing a purchase order) can be automated with multiple agents. One agent collects necessary data from the user, another fills out forms or updates systems, another sends notifications to relevant departments. This “digital workforce” collaborates to complete processes end-to-end without burdening employees with manual steps. \
+* **Internal Team Support:** Complex internal workflows (like onboarding a new hire or processing a purchase order) can be automated with multiple agents. One agent collects necessary data from the user, another fills out forms or updates systems, another sends notifications to relevant departments. This “digital workforce” collaborates to complete processes end-to-end without burdening employees with manual steps. 
 
 **Education and Training:** Multi-agent systems show promise in education as personalized tutors or support tools. For example, an educational platform could have:
 
@@ -175,7 +175,7 @@ Multi-agent AI systems are being explored – and in some cases deployed – acr
 
 **Research and Knowledge Work:** As demonstrated by Anthropic’s multi-agent research system, these setups excel at tasks requiring broad exploration and synthesis . Some real-world uses:
 
-* **Market Research and Business Intelligence:** Instead of a human analyst manually gathering information, a multi-agent system can parallelize the work. One agent scours news articles and press releases (web search agent), another analyzes social media trends (social media agent), another compiles financial metrics from databases. A coordinating agent then aggregates these findings into a report or actionable insights. AutoGPT and similar systems have been experimented with for market research, producing outlines or analyses by delegating web browsing and data gathering to sub-agents . 
+* **Market Research and Business Intelligence:** Instead of a human analyst manually gathering information, a multi-agent system can parallelize the work. One agent scours news articles and press releases (web search agent), another analyzes social media trends (social media agent), another compiles financial metrics from databases. A coordinating agent then aggregates these findings into a report or actionable insights. AutoGPT and similar systems have been experimented with for market research, producing outlines or analyses by delegating web browsing and data gathering to sub-agents. 
 
 * **Scientific Research Assistance:** Picture an “AI lab assistant” comprised of agents: one agent formulates hypotheses or questions, another searches academic literature, another designs experiment or simulation parameters, and yet another analyzes data or reads graphs. The Allen Institute’s recent work on Semantic Scholar or other AI scientists touches on this idea, although it’s early. The multi-agent approach is attractive for research because one agent alone might not be skilled at all tasks (reading papers vs. doing math vs. coding an analysis script), but a collection of specialized ones could cover more ground. 
 
@@ -227,15 +227,15 @@ The growing popularity of multi-agent AI has given rise to a rich ecosystem of f
 
     * These enterprise solutions are typically not open platforms like LangChain, but they show that **multi-agent concepts are being built into major enterprise software**. They often emphasize ease of integration (how to plug into existing systems), security, and compliance. For instance, they might have features to ensure an agent doesn’t access unauthorized data or to keep a human in the loop for approvals. 
 
-* **Specialized Frameworks and Projects: 
-**
+* **Specialized Frameworks and Projects:
+  
     * **LlamaIndex (GPT Index):** Primarily known for connecting LLMs to external data, LlamaIndex also provides **multi-agent routing** capabilities. Its “Multi-Agent Router” can take a user query and decide which expert agent (out of a set) should handle it, forming an ensemble solution . It also supports tools and has a concept of an orchestrator agent implemented as a special function agent . This is a more narrow use-case (information retrieval and question answering) but is useful for building systems where different agents handle different knowledge domains. 
 
     * **CAMEL (Communicative Agents for “AI Society”):** An approach (from a 2023 paper) where two agents with distinct roles (e.g., a user agent and an assistant agent) converse to solve tasks. Essentially role-playing. While not a full framework, CAMEL introduced a pattern adopted in some projects – using multi-agent role-play to reach better solutions (for example, one agent acting as a teacher, another as a student). 
 
     * **MetaGPT (Collaborative Software Agents):** An open-source project that configures multiple ChatGPT instances as roles in a software team (PM, architect, engineer, QA). It gained a lot of stars on GitHub in mid-2023. The project acts as a proof of concept of how multi-agent can be used in software engineering. It is more of a template to follow than a library, but it has influenced how people think of role specialization. 
 
-    * **Hugging Face Agents:** This is a relatively new concept where you use Hugging Face’s Transformers library to create an agent that can choose tools (including other models or API calls). It leverages the transformers agent utility where an LLM is given a list of tools and decides which to invoke. It’s akin to a single agent with tools, but you could chain multiple such agents. Not as fleshed out as others, but likely to evolve as part of the open-source ecosystem. \
+    * **Hugging Face Agents:** This is a relatively new concept where you use Hugging Face’s Transformers library to create an agent that can choose tools (including other models or API calls). It leverages the transformers agent utility where an LLM is given a list of tools and decides which to invoke. It’s akin to a single agent with tools, but you could chain multiple such agents. Not as fleshed out as others, but likely to evolve as part of the open-source ecosystem. 
 
 * **Observability and Evaluation Tools:** Alongside frameworks, there are tools focusing on the monitoring/evaluation side (essential for scaling multi-agent systems): 
 
