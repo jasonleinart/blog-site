@@ -40,7 +40,7 @@ keywords:              []
 # logo:                  /assets/img/logo.png
 
 # Favicon path
-# favicon:               false
+favicon:               /assets/icons/favicon.ico
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # The default author for blog posts - must match key in _data/authors.yml
