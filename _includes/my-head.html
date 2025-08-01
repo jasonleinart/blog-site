@@ -15,11 +15,29 @@ Fill in `href`. You may have to adjust `rel`.
 <!-- Open external links in new tab -->
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  document.querySelectorAll('a[href^="http"]').forEach(a => {
-    if (!a.href.includes(location.hostname)) {
-      a.target = '_blank';
-      a.rel = 'noopener';
-    }
+  // Function to process external links
+  function processExternalLinks() {
+    document.querySelectorAll('a[href]').forEach(a => {
+      // Check if it's an external link (starts with http/https and doesn't include current hostname)
+      if ((a.href.startsWith('http://') || a.href.startsWith('https://')) && 
+          !a.href.includes(location.hostname)) {
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+      }
+    });
+  }
+  
+  // Process links immediately
+  processExternalLinks();
+  
+  // Also process links that might be added dynamically
+  const observer = new MutationObserver(() => {
+    processExternalLinks();
+  });
+  
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true
   });
 });
 </script>
