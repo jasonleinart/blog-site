@@ -4,7 +4,7 @@ title: "The Current Landscape of Multi-Agent AI Systems"
 date: 2025-08-01 09:00:00
 author: author1
 categories: [mental-models]
-tags: [agents, architecture, langchain, multi-agent, frameworks, enterprise-ai]
+tags: [agents, architecture, langchain]
 description: >
   A comprehensive overview of multi-agent AI systems, their architectures, 
   required skills, infrastructure gaps, and monetizable opportunities for builders.
