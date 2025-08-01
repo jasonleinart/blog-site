@@ -16,7 +16,7 @@ related_posts:
   - /build-logs/2025-01-08-gpt-research-assistant-build
 ---
 
-# 🧠 Mental Model: The Multi-Agent AI Systems Landscape
+# The Multi-Agent AI Systems Landscape
 
 Multi-agent AI systems are gaining prominence as a way to tackle complex tasks by orchestrating multiple specialized AI “agents” working together. This report provides a comprehensive overview of the state of multi-agent systems, including their architectures, required skills and tools, infrastructure gaps, communication protocols, real-world applications, leading platforms, and opportunities for innovators in this domain.
 
