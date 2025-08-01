@@ -11,13 +11,11 @@ accent_image:
 ---
 
 # 🧠 Mental Models
-
 ## What You'll Find Here
 
 - **Strategic Frameworks** - How to think about AI adoption and implementation
 - **Decision Models** - Tools for navigating technical and career choices
 - **Systems Thinking** - Understanding emergence, feedback loops, and complexity
 - **Cognitive Tools** - Mental models that enhance reasoning and problem-solving
-- **Big Picture Essays** - Connecting dots across technology, society, and human potential
 
 These posts travel farthest and define my voice—the "big ideas" that shape how I approach the AI frontier. 
