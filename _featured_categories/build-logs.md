@@ -12,9 +12,6 @@ accent_image:
 ---
 
 # 🔧 Build Logs
-
-Technical documentation from the trenches. Real projects, real code, real lessons learned while building automation systems and AI-powered workflows.
-
 ## What You'll Find Here
 
 - **Step-by-Step Builds** - Complete walkthroughs from idea to implementation
