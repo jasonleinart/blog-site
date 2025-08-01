@@ -8,8 +8,6 @@ tags: [build-logs, mcp, docker, cursor, vibe-coding, arxiv, development]
 description: >
   From not knowing Docker to publishing an official MCP server on Docker Hub in 10 days. 
   A behind-the-scenes look at vibe-coding with AI assistance.
-image:
-  path: /assets/img/sidebar-bg.jpg
 related_posts:
   - /mental-models/2025-08-01-multi-agent-ai-systems-landscape
   - /build-logs/2025-01-08-gpt-research-assistant-build
