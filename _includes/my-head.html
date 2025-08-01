@@ -11,3 +11,15 @@ Fill in `href`. You may have to adjust `rel`.
 -->
 <noscript><link href="<path/to/content.css>" rel="stylesheet"></noscript>
 {% endcomment %}
+
+<!-- Open external links in new tab -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('a[href^="http"]').forEach(a => {
+    if (!a.href.includes(location.hostname)) {
+      a.target = '_blank';
+      a.rel = 'noopener';
+    }
+  });
+});
+</script>
