@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "The Real Difference Between AI Agents and Automations"
-date: 2025-01-07 09:00:00
+date: 2025-06-07 09:00:00
 author: author1
 categories: [mental-models]
-tags: [mental-models, agents, automation, cognitive-architecture, strategic-overview]
+tags: [agents, automation]
 description: >
   A framework for understanding when you need an AI agent versus automation, 
   and why the distinction matters for building reliable systems.
@@ -15,7 +15,7 @@ related_posts:
   - /field-notes/2025-01-09-scaling-laws-what-they-really-tell-us
 ---
 
-# 🧠 Mental Model: Agents vs. Automations
+# Agents vs. Automations
 
 The AI industry conflates "agents" and "automations" constantly. Marketing teams call everything an "AI agent." Developers build automations and call them agents. This confusion isn't just semantic—it leads to wrong tool choices and failed implementations.
 
