@@ -53,12 +53,8 @@ feed:
 
 # Add links to the sidebar.
 menu:
-  - title:             Field Notes
-    url:               /field-notes/
-  - title:             Build Logs
-    url:               /build-logs/
-  - title:             Mental Models
-    url:               /mental-models/
+  - title:             Writing
+    url:               /blog/
   - title:             Now
     url:               /now/
   - title:             About
