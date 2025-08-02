@@ -296,7 +296,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /:slug/
+    permalink:         /blog/:slug/
     output:            true
 
   featured_tags:
