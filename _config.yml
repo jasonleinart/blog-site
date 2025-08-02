@@ -53,10 +53,14 @@ feed:
 
 # Add links to the sidebar.
 menu:
-  - title:             Writing
-    url:               /blog/
-  - title:             Now
-    url:               /now/
+  - title:             AI & Automation
+    url:               /blog/ai-automation/
+  - title:             Research & Analysis
+    url:               /blog/research-analysis/
+  - title:             Marketing Technology
+    url:               /blog/marketing-technology/
+  - title:             Projects
+    url:               /projects/
   - title:             About
     url:               /about/
   - title:             Resume
