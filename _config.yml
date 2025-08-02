@@ -355,11 +355,10 @@ plugins:
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
 
-# Set your Google Analytics id to receive `pageview` events.
-# To remove Google Analytics from your page, remove the line below.
-# For GA4, use your measurement ID (starts with G-)
-# google_analytics:      UA-XXXXXXXX-X  # Old Universal Analytics (deprecated)
-# google_analytics_ga4:  G-XXXXXXXXXX   # New GA4 measurement ID
+# Set your Google Tag Manager container ID to enable tracking.
+# GTM will handle GA4 and other tracking tags from the GTM interface.
+# To remove tracking, comment out the line below.
+# google_tag_manager:    GTM-XXXXXXX
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.

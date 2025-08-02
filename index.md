@@ -17,8 +17,6 @@ more_posts: posts.md
 featured: true
 ---
 
-# Welcome to the AI Frontier
-
 I'm **Jason Leinart**, and this is my field station at the edge of artificial intelligence. This isn't just another tech blog—it's a live research notebook documenting the practical reality of building with AI.
 
 ## What You'll Find Here

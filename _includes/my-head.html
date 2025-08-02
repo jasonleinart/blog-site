@@ -14,42 +14,13 @@ Fill in `href`. You may have to adjust `rel`.
 
 <!-- Custom Favicon - Let the theme handle favicon links via config -->
 
-<!-- Google Analytics 4 (GA4) -->
-{% if site.google_analytics_ga4 %}
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_ga4 }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  
-  {% if site.hydejack.cookies_banner %}
-    // Check for cookie consent
-    if (document.cookie.indexOf("hy--cookies-ok=true") > -1 || navigator.CookiesOK) {
-      gtag('js', new Date());
-      gtag('config', '{{ site.google_analytics_ga4 }}');
-    } else {
-      // Initialize without cookies until consent is given
-      gtag('js', new Date());
-      gtag('config', '{{ site.google_analytics_ga4 }}', {
-        'anonymize_ip': true,
-        'allow_google_signals': false,
-        'allow_ad_personalization_signals': false
-      });
-    }
-    
-    // Listen for cookie consent
-    document.addEventListener('hy--cookies-ok', function() {
-      gtag('config', '{{ site.google_analytics_ga4 }}', {
-        'anonymize_ip': false,
-        'allow_google_signals': true,
-        'allow_ad_personalization_signals': true
-      });
-    });
-  {% else %}
-    gtag('js', new Date());
-    gtag('config', '{{ site.google_analytics_ga4 }}');
-  {% endif %}
-</script>
+<!-- Google Tag Manager -->
+{% if site.google_tag_manager %}
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','{{ site.google_tag_manager }}');</script>
 {% endif %}
 
 <!-- Open external links in new tab -->
