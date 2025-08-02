@@ -9,6 +9,7 @@ accent_color: rgb(229,115,115)
 accent_image:
   background: rgb(66,66,66)
   overlay: false
+menu_parent: /blog/
 ---
 
 # 🔧 Build Logs

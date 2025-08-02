@@ -9,6 +9,7 @@ accent_color: rgb(156,39,176)
 accent_image:
   background: rgb(74,20,140)
   overlay: false
+menu_parent: /blog/
 ---
 
 # 🧠 Mental Models

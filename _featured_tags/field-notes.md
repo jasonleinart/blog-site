@@ -9,6 +9,7 @@ accent_color: rgb(38,139,210)
 accent_image:
   background: rgb(25,55,71)
   overlay: false
+menu_parent: /blog/
 ---
 
 # 🧪 Field Notes
