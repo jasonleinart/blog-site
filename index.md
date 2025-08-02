@@ -20,20 +20,9 @@ I'm **Jason Leinart**, and this is my field station at the edge of artificial in
 
 <!--projects-->
 
-## What You'll Find Here
+## How I Write
 
-### 🤖 [AI & Automation](/blog/ai-automation/)
-Building intelligent systems that work. From AI agents and LangGraph workflows to automation pipelines and machine learning implementations. This is where I document the technical reality of shipping AI systems.
-
-### 🔬 [Research & Analysis](/blog/research-analysis/)
-Making sense of the AI landscape. I read the papers, track the trends, and distill complex research into actionable insights. Bridging the gap between academic research and practical application.
-
-### 📊 [Marketing Technology](/blog/marketing-technology/)
-Where marketing meets intelligent automation. Exploring how AI and technology can amplify marketing effectiveness, from automation workflows to data analysis and personalization systems.
-
----
-
-## Browse by Format
+I organize my writing by format rather than topic, which lets ideas flow naturally across boundaries:
 
 **🧪 [Field Notes](/tag-field-notes/)** - Research logs and paper analysis  
 **🔧 [Build Logs](/tag-build-logs/)** - Technical walkthroughs and tutorials  
