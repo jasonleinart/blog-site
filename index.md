@@ -7,7 +7,6 @@ description: >
 cover: true
 selected_projects:
   - _projects/arxiv-mcp-server.md
-  - _projects/hydejack-site.md
 selected_posts:
   - _posts/2025-01-08-gpt-research-assistant-build.md
   - _posts/2025-01-07-agents-vs-automation.md
