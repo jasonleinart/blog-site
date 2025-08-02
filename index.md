@@ -20,14 +20,22 @@ I'm **Jason Leinart**, and this is my field station at the edge of artificial in
 
 ## What You'll Find Here
 
-### 🧪 [Field Notes](/blog/field-notes/)
-Research logs from the cutting edge. I read AI papers so you don't have to—extracting actionable insights from academic research and tracking emerging patterns that matter for practitioners.
+### 🤖 [AI & Automation](/blog/ai-automation/)
+Building intelligent systems that work. From AI agents and LangGraph workflows to automation pipelines and machine learning implementations. This is where I document the technical reality of shipping AI systems.
 
-### 🔧 [Build Logs](/blog/build-logs/)
-Technical documentation from real projects. Complete walkthroughs of AI agent workflows, automation systems, and cloud infrastructure—with code, lessons learned, and honest assessments of what worked (and what didn't).
+### 🔬 [Research & Analysis](/blog/research-analysis/)
+Making sense of the AI landscape. I read the papers, track the trends, and distill complex research into actionable insights. Bridging the gap between academic research and practical application.
 
-### 🧠 [Mental Models](/blog/mental-models/)
-Frameworks for thinking through AI complexity. Essays on strategy, decision-making, and the big picture questions that shape how we approach artificial intelligence.
+### 📊 [Marketing Technology](/blog/marketing-technology/)
+Where marketing meets intelligent automation. Exploring how AI and technology can amplify marketing effectiveness, from automation workflows to data analysis and personalization systems.
+
+---
+
+## Browse by Format
+
+**🧪 [Field Notes](/tag-field-notes/)** - Research logs and paper analysis  
+**🔧 [Build Logs](/tag-build-logs/)** - Technical walkthroughs and tutorials  
+**🧠 [Mental Models](/tag-mental-models/)** - Strategic frameworks and big-picture thinking
 
 ---
 
@@ -53,4 +61,4 @@ If you're navigating the AI frontier too, I'd love to hear from you:
 - **GitHub:** [@jasonleinart](https://github.com/jasonleinart)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/jason-leinart)
 
-Ready to explore? Start with my latest **[Field Notes](/blog/field-notes/)** or dive into a recent **[Build Log](/blog/build-logs/)**.
+Ready to explore? Browse all **[Writing](/blog/)** or check out my latest **[Projects](/projects/)**.

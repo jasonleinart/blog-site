@@ -53,12 +53,8 @@ feed:
 
 # Add links to the sidebar.
 menu:
-  - title:             AI & Automation
-    url:               /blog/ai-automation/
-  - title:             Research & Analysis
-    url:               /blog/research-analysis/
-  - title:             Marketing Technology
-    url:               /blog/marketing-technology/
+  - title:             Writing
+    url:               /blog/
   - title:             Projects
     url:               /projects/
   - title:             About
