@@ -43,31 +43,6 @@ hide_description: false
 
 ---
 
-## 🔄 Current Experiments
-
-- **Research Workflow:** Using AI to help me process and synthesize academic papers more effectively
-- **Content Creation:** Exploring AI-assisted writing while maintaining authentic voice
-- **Automation Testing:** Building and breaking various AI agent workflows to understand their limitations
-- **Community Building:** Engaging with AI/automation communities to learn from practitioners
-
----
-
-## 📈 What's Coming Next
-
-### Q1 2025 Goals
-- Launch 10+ Field Notes analyzing key AI research papers
-- Complete and document 3 major Build Log projects
-- Publish 2 comprehensive Mental Models essays
-- Build community engagement through consistent quality content
-
-### Longer-term Vision
-- Establish credibility as a thoughtful voice in practical AI application
-- Create resources that help others navigate the AI transition
-- Build systems that demonstrate AI's potential for cognitive amplification
-- Explore consulting/advisory opportunities in AI implementation
-
----
-
 ## 🤝 Let's Connect
 
 If you're working on similar problems or have insights to share, I'd love to connect:
