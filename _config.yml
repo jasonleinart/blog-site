@@ -358,7 +358,7 @@ plugins:
 # Set your Google Tag Manager container ID to enable tracking.
 # GTM will handle GA4 and other tracking tags from the GTM interface.
 # To remove tracking, comment out the line below.
-# google_tag_manager:    GTM-XXXXXXX
+google_tag_manager:    GTM-M2S5CZLJ
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
