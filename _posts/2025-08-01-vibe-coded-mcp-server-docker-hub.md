@@ -13,7 +13,7 @@ related_posts:
   - /build-logs/2025-01-08-gpt-research-assistant-build
 ---
 
-# 🔨 Vibe-Coding an MCP Server
+# Vibe-Coding an MCP Server
 
 I didn't know how to write a Dockerfile a few weeks ago. I barely knew what MCP (Model Context Protocol) was. But today, my project—arxiv-mcp-server—is live on the Docker MCP Hub, officially published and available for anyone using LLMs with Docker Desktop. I built it mostly in Cursor, vibe-coded the entire thing, and somehow made it work. This post is a behind-the-scenes reflection on how it came together, what I learned, and what it felt like to ship something real despite not being a traditional developer.
 
