@@ -59,8 +59,6 @@ menu:
     url:               /now/
   - title:             About
     url:               /about/
-  - title:             Contact
-    url:               /contact/
   - title:             Resume
     url:               /resume/
 
