@@ -18,6 +18,8 @@ featured: true
 
 I'm **Jason Leinart**, and this is my field station at the edge of artificial intelligence. This isn't just another tech blog—it's a live research notebook documenting the practical reality of building with AI.
 
+<!--projects-->
+
 ## What You'll Find Here
 
 ### 🤖 [AI & Automation](/blog/ai-automation/)
@@ -36,14 +38,6 @@ Where marketing meets intelligent automation. Exploring how AI and technology ca
 **🧪 [Field Notes](/tag-field-notes/)** - Research logs and paper analysis  
 **🔧 [Build Logs](/tag-build-logs/)** - Technical walkthroughs and tutorials  
 **🧠 [Mental Models](/tag-mental-models/)** - Strategic frameworks and big-picture thinking
-
----
-
-## Stay Updated
-
-Get new insights delivered directly to your inbox. Join the community exploring the practical side of AI:
-
-<iframe src="https://jasonleinart.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ---
 
