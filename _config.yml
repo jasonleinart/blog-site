@@ -99,8 +99,8 @@ theme: jekyll-theme-hydejack
  
 # Sidebar image and theme color of the site.
 accent_image:
-  background:          rgb(25,55,71)
-  overlay:             false
+  background:          /assets/img/rockies.jpg
+  overlay:             true
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
