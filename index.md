@@ -21,13 +21,13 @@ I'm **Jason Leinart**, and this is my field station at the edge of artificial in
 
 ## What You'll Find Here
 
-### 🧪 [Field Notes](/field-notes/)
+### 🧪 [Field Notes](/blog/field-notes/)
 Research logs from the cutting edge. I read AI papers so you don't have to—extracting actionable insights from academic research and tracking emerging patterns that matter for practitioners.
 
-### 🔧 [Build Logs](/build-logs/)
+### 🔧 [Build Logs](/blog/build-logs/)
 Technical documentation from real projects. Complete walkthroughs of AI agent workflows, automation systems, and cloud infrastructure—with code, lessons learned, and honest assessments of what worked (and what didn't).
 
-### 🧠 [Mental Models](/mental-models/)
+### 🧠 [Mental Models](/blog/mental-models/)
 Frameworks for thinking through AI complexity. Essays on strategy, decision-making, and the big picture questions that shape how we approach artificial intelligence.
 
 ---
@@ -54,4 +54,4 @@ If you're navigating the AI frontier too, I'd love to hear from you:
 - **GitHub:** [@jasonleinart](https://github.com/jasonleinart)
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/jason-leinart)
 
-Ready to explore? Start with my latest **[Field Notes](/field-notes/)** or dive into a recent **[Build Log](/build-logs/)**.
+Ready to explore? Start with my latest **[Field Notes](/blog/field-notes/)** or dive into a recent **[Build Log](/blog/build-logs/)**.
