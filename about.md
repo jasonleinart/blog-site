@@ -42,18 +42,6 @@ I believe AI's greatest potential lies not in replacing human intelligence, but 
 
 This site is my research notebook, project log, and thinking space. I write to clarify my own understanding and to share what I'm learning with others navigating similar territory.
 
-## What I'm Building
-
-**Current projects:**
-- AI-powered research assistant using Airtable + Apify
-- Google Cloud Functions automation pipelines  
-- This site as a testing ground for AI-assisted content workflows
-
-**Coming next:**
-- Advanced agent architectures for knowledge work
-- Systems for reliable AI-human collaboration
-- Frameworks for AI adoption in professional contexts
-
 ## Connect & Collaborate
 
 I'm always interested in connecting with others working at the intersection of AI, automation, and human intelligence:
