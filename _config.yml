@@ -56,12 +56,6 @@ feed:
 menu:
   - title:             Writing
     url:               /blog/
-  - title:             Mental Models
-    url:               /tag-mental-models/
-  - title:             Build Logs
-    url:               /tag-build-logs/
-  - title:             Field Notes
-    url:               /tag-field-notes/
   - title:             Three Horizons
     url:               /three-horizons/
   - title:             Projects
