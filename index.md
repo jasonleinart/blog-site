@@ -1,8 +1,6 @@
 ---
 layout: welcome
 cover: true
-selected_projects:
-  - _projects/arxiv-mcp-server.md
 selected_posts:
   - _posts/2025-01-08-gpt-research-assistant-build.md
   - _posts/2025-01-07-agents-vs-automation.md
@@ -14,8 +12,6 @@ featured: true
 
 I'm **Jason Leinart**, a marketing technologist bridging data, automation, and AI to build smarter systems. This is where I share practical frameworks, real implementations, and strategic insights from building at the intersection of marketing and artificial intelligence.
 
-<!--projects-->
-
 ## How I Write
 
 I organize my writing by format rather than topic, which lets ideas flow naturally across boundaries:
@@ -23,6 +19,8 @@ I organize my writing by format rather than topic, which lets ideas flow natural
 **🧪 [Field Notes](/tag-field-notes/)** - Research logs and paper analysis  
 **🔧 [Build Logs](/tag-build-logs/)** - Technical walkthroughs and tutorials  
 **🧠 [Mental Models](/tag-mental-models/)** - Strategic frameworks and big-picture thinking
+
+<!--posts-->
 
 ---
 
