@@ -41,6 +41,9 @@ At the personal level, AI becomes an extension of individual cognition and capab
 - **Comparative advantage**: Humans focus on creativity, strategy, and judgment while AI handles data processing
 - **Network effects**: Individual AI capabilities improve with usage and data accumulation
 
+**Deep Dive:** [Personal AI Strategy Framework →](/blog/personal-ai-strategy-framework/)  
+**Browse All Content:** [Personal Horizon Collection →](/tag-personal-horizon/)
+
 ---
 
 ### **Horizon 2: Agent Teams - The Collaborative Frontier**
@@ -75,6 +78,9 @@ At the team level, AI agents become specialized team members with distinct capab
 - **Network effects**: Agent team capabilities compound as coordination improves and specialization deepens
 - **Organizational restructuring**: New firm boundaries emerge as AI capabilities change make-vs-buy decisions
 
+**Deep Dive:** [AI Agent Team Management Framework →](/blog/ai-agent-team-management-framework/)  
+**Browse All Content:** [Team Horizon Collection →](/tag-team-horizon/)
+
 ---
 
 ### **Horizon 3: Process Intelligence - The Organizational Frontier**
@@ -108,6 +114,9 @@ At the organizational level, AI becomes the intelligent nervous system that sens
 - **Platform effects**: Integrated AI systems create compound value across business functions
 - **Competitive advantage**: AI-enabled organizations outperform traditional competitors through superior efficiency
 - **Market concentration**: Network effects and AI capabilities may create winner-take-all dynamics
+
+**Deep Dive:** [Organizational AI Intelligence Framework →](/blog/organizational-ai-intelligence-framework/)  
+**Browse All Content:** [Organizational Horizon Collection →](/tag-org-horizon/)
 
 ## 🔄 Integration Across Horizons
 
