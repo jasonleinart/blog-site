@@ -1,8 +1,8 @@
 ---
 layout: about
 description: >
-  Jason Leinart: Exploring automation, intelligence, and the systems that shape our future.
-  Field notes from someone building at the AI frontier.
+  Jason Leinart: Marketing technologist bridging data, automation, and AI to build smarter systems.
+  Practical frameworks and strategic insights for the future of work.
 hide_description: true
 redirect_from:
   - /download/
@@ -10,47 +10,47 @@ redirect_from:
 
 # About Jason
 
-Field researcher at the AI frontier. Builder of intelligent systems. Career pivoter learning in public.
+Marketing technologist bridging data, automation, and AI to build smarter systems. Strategic thinker focused on practical implementations.
 
 <!--author-->
 
 ## My Current Mission
 
-I'm documenting the practical reality of building with AI—not the hype, not the theory, but the actual experience of someone figuring it out in real time.
+I'm building practical frameworks for AI integration in marketing and business operations—focusing on real implementations that deliver measurable results.
 
-We're living through the most significant technological shift since the internet, but most of the conversation happens at extremes: either in academic papers that are hard to apply, or in marketing content that oversells capabilities. **I'm exploring the middle ground**—the practical reality of actually building with AI.
+The AI transformation is happening now, but most organizations struggle with the gap between AI potential and practical application. **I bridge that gap**—developing strategic frameworks, proven workflows, and actionable insights for marketing professionals navigating this transformation.
 
 ## Background & Evolution
 
-I come from a background in digital marketing and operations, where I spent years optimizing systems and processes for growth-stage companies. But over the past year, I've been making a deliberate pivot toward AI and automation, driven by a conviction that these tools represent a fundamental shift in how we work and think.
+I bring deep experience in digital marketing and operations, where I've spent years optimizing systems and processes for growth-stage companies. Now I'm focused on integrating AI and automation into marketing workflows, driven by the conviction that these tools represent a fundamental shift in competitive advantage.
 
-**What I'm exploring:**
-- How AI agents differ from traditional automation 
-- Building reliable systems with probabilistic components
-- Cloud infrastructure patterns for AI/ML workloads  
-- The intersection of human intelligence and artificial intelligence
+**What I'm building:**
+- AI-powered marketing automation systems
+- Data infrastructure for analytics and insights
+- Strategic frameworks for human-AI collaboration
+- Practical implementations that bridge marketing and technology
 
 **Current focus areas:**
-- AWS certification and cloud architecture
-- AI agent frameworks (LangChain, CrewAI, custom architectures)
-- Research automation and knowledge management systems
-- Cognitive amplification vs. replacement
+- AWS cloud architecture and data infrastructure
+- Marketing automation and AI agent workflows
+- Analytics systems and performance optimization
+- Strategic consulting on AI integration
 
 ## Philosophy & Approach
 
-I believe AI's greatest potential lies not in replacing human intelligence, but in **amplifying** it. The most interesting questions aren't technical—they're about cognition, systems thinking, and how we can build tools that make us better thinkers and decision-makers.
+I believe AI's greatest potential lies in **strategic integration**—not replacing human expertise, but amplifying it through intelligent automation and data-driven insights. The most valuable applications aren't purely technical—they're about understanding business context, customer behavior, and competitive dynamics.
 
-This site is my research notebook, project log, and thinking space. I write to clarify my own understanding and to share what I'm learning with others navigating similar territory.
+This site is where I develop and share practical frameworks, document real implementations, and explore strategic insights for marketing professionals building with AI.
 
 ## Connect & Collaborate
 
-I'm always interested in connecting with others working at the intersection of AI, automation, and human intelligence:
+I'm always interested in connecting with marketing professionals, technologists, and business leaders working at the intersection of AI, marketing, and automation:
 
 **Email:** dspjson@gmail.com  
 **GitHub:** [@jasonleinart](https://github.com/jasonleinart)  
 **LinkedIn:** [Connect with me](https://linkedin.com/in/jason-leinart)
 
-If you're building with AI, wrestling with similar questions, or just want to geek out about the future of work, I'd love to hear from you.
+If you're implementing AI in marketing, building automation systems, or developing strategic frameworks for AI integration, I'd love to hear from you.
 
 ---
 
