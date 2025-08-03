@@ -1,9 +1,10 @@
 ---
 layout: welcome
-title: Field Notes from the AI Frontier
+title: "Jason Leinart | AI + Marketing + Automation"
 description: >
-  Exploring automation, intelligence, and the systems that shape our future.
-  Join me as I document insights from the edge of artificial intelligence.
+  Bridging marketing, data, and automation to build smarter systems. I'm Jason Leinart, 
+  a marketing technologist focused on AI-powered workflows, analytics infrastructure, 
+  and strategic growth. Explore my projects, experiments, and insights.
 cover: true
 selected_projects:
   - _projects/arxiv-mcp-server.md
