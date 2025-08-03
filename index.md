@@ -6,6 +6,7 @@ description: >
   a marketing technologist focused on AI-powered workflows, analytics infrastructure, 
   and strategic growth. Explore my projects, experiments, and insights.
 cover: true
+hide_title: true
 selected_projects:
   - _projects/arxiv-mcp-server.md
 selected_posts:
