@@ -3,16 +3,15 @@ layout: post
 title: "The Real Difference Between AI Agents and Automations"
 date: 2025-06-07 09:00:00
 author: author1
-categories: [mental-models]
-tags: [agents, automation]
+tags: [mental-models, agents, automation, ai-strategy]
 description: >
   A framework for understanding when you need an AI agent versus automation, 
   and why the distinction matters for building reliable systems.
 image:
   path: /assets/img/sidebar-bg.jpg
 related_posts:
-  - /build-logs/2025-01-08-gpt-research-assistant-build
-  - /field-notes/2025-01-09-scaling-laws-what-they-really-tell-us
+  - /blog/gpt-research-assistant-build
+  - /blog/scaling-laws-what-they-really-tell-us
 ---
 
 # Agents vs. Automations

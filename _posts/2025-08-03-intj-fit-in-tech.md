@@ -1,10 +1,13 @@
 ---
+layout: post
 title: "INTJ Cognitive Alignment with AI and Tech Careers"
 subtitle: "What a Meta-Analysis of Jungian Functions Reveals About My Fit in the Industry"
-date: 2025-08-03
-categories: [field-notes]
-tags: [cognition, research, personality, career-transition, mbti]
-summary: "As an INTJ with a background in marketing and a growing presence in the AI/tech space, this paper helped validate the cognitive wiring behind my career pivot. Here's what it revealed—and how I'm using it to shape my direction."
+date: 2025-08-03 09:00:00
+author: author1
+tags: [field-notes, intj, cognition, research, ai-industry, career-transition]
+description: >
+  As an INTJ with a background in marketing and a growing presence in the AI/tech space, 
+  this paper helped validate the cognitive wiring behind my career pivot. Here's what it revealed—and how I'm using it to shape my direction.
 ---
 
 > *"Vision without action is a dream. Action without vision is a nightmare."*  
@@ -71,37 +74,16 @@ INTJ is not only present—it’s **a leading archetype for success** in fields 
 
 The paper provides detailed analysis of how each MBTI type performs in computer-related careers. Here's the complete picture:
 
-**INTJ (Ni, Te)**  
-*Strengths:* Visionary outlook, strategic planning, integrating complex information into coherent plans, excelling in roles requiring foresight and innovation  
-*Challenges:* May struggle with detailed, hands-on tasks if overly focused on big picture
-
-**ENTJ (Te, Ni)**  
-*Strengths:* Natural commanders, thriving in decisive action and strategic vision, organizing and leading projects with clear structure  
-*Challenges:* May be perceived as too direct or blunt, potentially overlooking interpersonal harmony
-
-**INTP (Ti, Ne)**  
-*Strengths:* Deep analytical thought, creative problem-solving, excelling in theoretical domains, dissecting complex problems  
-*Challenges:* May struggle with follow-through due to tendency to jump from idea to idea
-
-**ENTP (Ne, Ti)**  
-*Strengths:* Creativity, innovation, brainstorming, generating wide range of possibilities, honing ideas into logical solutions  
-*Challenges:* May require support from more structured colleagues to ensure follow-through and execution
-
-**ISTJ (Si, Te)**  
-*Strengths:* Reliability, attention to detail, methodical approach, excelling in roles requiring precision and consistency  
-*Challenges:* May struggle with adapting to rapid changes or unconventional approaches
-
-**INFJ (Ni, Fe)**  
-*Strengths:* Visionary thinkers with deep sense of purpose, long-term planning, considering human impact of technology  
-*Challenges:* May struggle with practical, detail-oriented aspects of implementation
-
-**ESTJ (Te, Si)**  
-*Strengths:* Detail-oriented, efficiency driven, management of procedures and resources  
-*Challenges:* May not be as innovative, needs support of intuitive individuals
-
-**ESTP (Se, Ti)**  
-*Strengths:* Detail-oriented, adaptable, problem-solving skills, ability to learn new things  
-*Challenges:* May struggle with theoretical and abstract subjects
+| MBTI Type | Functions | Strengths in Tech | Challenges |
+|-----------|-----------|-------------------|------------|
+| **INTJ** | Ni, Te | Visionary outlook, strategic planning, integrating complex information into coherent plans, excelling in roles requiring foresight and innovation | May struggle with detailed, hands-on tasks if overly focused on big picture |
+| **ENTJ** | Te, Ni | Natural commanders, thriving in decisive action and strategic vision, organizing and leading projects with clear structure, setting goals and developing strategies | May be perceived as too direct or blunt, potentially overlooking interpersonal harmony |
+| **INTP** | Ti, Ne | Deep analytical thought, creative problem-solving, excelling in theoretical domains, dissecting complex problems and generating innovative solutions | May struggle with follow-through due to tendency to jump from idea to idea |
+| **ENTP** | Ne, Ti | Creativity, innovation, brainstorming, generating wide range of possibilities, honing ideas into logical solutions, adapting to new situations | May require support from more structured colleagues to ensure follow-through and execution |
+| **ISTJ** | Si, Te | Reliability, attention to detail, methodical approach, excelling in roles requiring precision, consistency, and adherence to protocols | May struggle with adapting to rapid changes or unconventional approaches |
+| **INFJ** | Ni, Fe | Visionary thinkers with deep sense of purpose, long-term planning, considering human impact of technology, aligning solutions with user needs and values | May struggle with practical, detail-oriented aspects of implementation |
+| **ESTJ** | Te, Si | Detail-oriented, efficiency driven, management of procedures and resources | May not be as innovative, needs support of intuitive individuals |
+| **ESTP** | Se, Ti | Detail-oriented, adaptable, problem-solving skills, ability to learn new things | May struggle with theoretical and abstract subjects |
 
 ---
 

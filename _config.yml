@@ -56,6 +56,12 @@ feed:
 menu:
   - title:             Writing
     url:               /blog/
+  - title:             Mental Models
+    url:               /tag-mental-models/
+  - title:             Build Logs
+    url:               /tag-build-logs/
+  - title:             Field Notes
+    url:               /tag-field-notes/
   - title:             Three Horizons
     url:               /three-horizons/
   - title:             Projects
@@ -78,8 +84,8 @@ legal:
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2025 Jason Leinart. All rights reserved.
 
-# Format of the permalinks
-permalink:             /blog/:categories/:title/
+# Format of the permalinks - clean URLs without category paths
+permalink:             /blog/:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
@@ -169,11 +175,7 @@ defaults:
     values:
       seo:
         type:          WebPage
-  - scope:
-      type:            featured_categories
-    values:
-      seo:
-        type:          WebPage
+
   - scope:
       type:            featured_tags
     values:
@@ -296,10 +298,6 @@ hydejack:
 # ----------------------------------------------------------------------------------------
 
 collections:
-  featured_categories:
-    permalink:         /blog/:slug/
-    output:            true
-
   featured_tags:
     permalink:         /tag-:name/
     output:            true

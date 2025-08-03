@@ -3,14 +3,13 @@ layout: post
 title: "How I Vibe-Coded an MCP Server and Got It Published on Docker Hub"
 date: 2025-08-01 14:00:00
 author: author1
-categories: [build-logs]
-tags: [mcp, docker, cursor, vibe-coding]
+tags: [build-logs, mcp, docker, cursor, vibe-coding, ai-tools]
 description: >
   From not knowing Docker to publishing an official MCP server on Docker Hub in 10 days. 
   A behind-the-scenes look at vibe-coding with AI assistance.
 related_posts:
-  - /mental-models/2025-08-01-multi-agent-ai-systems-landscape
-  - /build-logs/2025-01-08-gpt-research-assistant-build
+  - /blog/multi-agent-ai-systems-landscape
+  - /blog/gpt-research-assistant-build
 ---
 
 # Vibe-Coding an MCP Server

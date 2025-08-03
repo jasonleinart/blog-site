@@ -4,7 +4,6 @@ title: "Test: Substack Article Embed"
 description: Testing how Substack embeds work on the site
 sitemap: false
 hide_last_modified: true
-categories: [test]
 tags: [test]
 ---
 

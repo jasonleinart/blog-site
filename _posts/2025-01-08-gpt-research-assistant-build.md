@@ -3,16 +3,15 @@ layout: post
 title: "Building a GPT-Powered Research Assistant with Airtable + Apify"
 date: 2025-01-08 10:00:00
 author: author1
-categories: [build-logs]
-tags: [project-log, automation, gpt, airtable, apify, research-workflow]
+tags: [build-logs, automation, gpt, airtable, apify, research-workflow, ai-tools]
 description: >
   Step-by-step walkthrough of building an AI research assistant that automatically 
   curates, analyzes, and organizes academic papers using GPT-4, Airtable, and Apify.
 image:
   path: /assets/img/sidebar-bg.jpg
 related_posts:
-  - /field-notes/2025-01-09-scaling-laws-what-they-really-tell-us
-  - /mental-models/2025-01-07-agents-vs-automation
+  - /blog/scaling-laws-what-they-really-tell-us
+  - /blog/agents-vs-automation
 ---
 
 # 🔧 Build Log: GPT-Powered Research Assistant

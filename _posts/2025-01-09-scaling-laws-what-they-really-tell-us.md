@@ -3,16 +3,15 @@ layout: post
 title: "Scaling Laws: What They Really Tell Us"
 date: 2025-01-09 14:00:00
 author: author1
-categories: [field-notes]
-tags: [research-log, llm, scaling, ai-research, cognitive-architecture]
+tags: [field-notes, research-log, llm, scaling, ai-research, cognitive-architecture]
 description: >
   Deep dive into scaling law research and what it means for practical AI implementation. 
   Beyond the hype—what do these patterns actually predict?
 image:
   path: /assets/img/sidebar-bg.jpg
 related_posts:
-  - /build-logs/2025-01-08-gpt-research-assistant-build
-  - /mental-models/2025-01-07-agents-vs-automation
+  - /blog/gpt-research-assistant-build
+  - /blog/agents-vs-automation
 ---
 
 # 🧪 Field Notes: Scaling Laws—What They Really Tell Us

@@ -3,8 +3,7 @@ layout: post
 title: "The Current Landscape of Multi-Agent AI Systems"
 date: 2025-08-01 09:00:00
 author: author1
-categories: [mental-models]
-tags: [agents, architecture, langchain]
+tags: [mental-models, agents, architecture, langchain, ai-strategy]
 description: >
   A comprehensive overview of multi-agent AI systems, their architectures, 
   required skills, infrastructure gaps, and monetizable opportunities for builders.
@@ -12,8 +11,8 @@ image:
   path: /assets/img/multiagent-hero-1920x1080.png
   alt: "Multiple AI agents working together at computers in a futuristic setting"
 related_posts:
-  - /mental-models/2025-01-07-agents-vs-automation
-  - /build-logs/2025-01-08-gpt-research-assistant-build
+  - /blog/agents-vs-automation
+  - /blog/gpt-research-assistant-build
 ---
 
 # The Multi-Agent AI Systems Landscape

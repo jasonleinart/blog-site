@@ -1,0 +1,79 @@
+Adding a category or tag Permalink
+Hydejack allows you to use the list or grid* layout to show all posts of a particular category or tag.
+
+Before you start, make sure your config files contains the features_categories and featured_tags collections:
+
+ _config.yml
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
+
+Recap: Categories and tags in Jekyll Permalink
+Posts in Jekyll can belong to one or more categories, as well as one or more tags. They are defined in a post’s front matter:
+
+---
+layout:     post
+title:      Welcome to Jekyll
+categories: [jekyll, update]
+tags:       [jekyll, update]
+---
+
+Posts can also be assigned to a category based on their position within the folder structure, e.g.
+
+├── jekyll
+│   └── update
+│       └── _posts
+│           └── 2017-04-07-welcome-to-jekyll.markdown
+
+This will place “Welcome to Jekyll” in the categories jekyll and update.
+
+This is now the preferred way of assigning categories in Hydejack, as it makes URLs correspond more naturally to the underlying folder structure.
+
+Whether you use this method or not, categories will always be part of a posts URL, while tags will not.
+
+Type	URL
+Categories	/jekyll/update/2017-04-07-welcome-to-jekyll/
+Tags	/2017-04-07-welcome-to-jekyll/
+As far as Jekyll is concerned, this is the only difference.
+
+Categories and tags in Hydejack Permalink
+Categories and tags are displayed by Hydejack below the title, after the date. Categories are displayed with the preposition “in”, while tags are displayed with the preposition “on”, e.g.
+
+Type	Title
+Categories	Welcome to Jekyll¬ 07 Apr 2017 in Jekyll / Update
+Tags	Welcome to Jekyll¬ 07 Apr 2017 on Jekyll, Update
+Both	Welcome to Jekyll¬ 07 Apr 2017 in Jekyll / Update on Jekyll, Update
+You can adjust these in _data/string.yml.
+
+Creating a new category or tag Permalink
+By default, categories and tags are rendered as plain text. Further steps are necessary if you want them to link to a page that contains a list of all posts that belong to that category or tag.
+
+For each featured category or tag, a file called <category-name>.md or <tag-name>.md has to be created inside the _featured_tags and _featured_categories folders, respectively. Each file in these folders is part of a Jekyll Collection.
+
+The meta data of a category or tag is set in the files front matter, e.g.
+
+ _featured_categories/hyde.md
+---
+layout: list
+title:  Hyde
+slug:   hyde
+description: >
+  Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme.
+  It's based on [Poole](http://getpoole.com), the Jekyll butler.
+---
+
+layout
+Must either list or grid*
+title
+Used as title of the page, as well as name of the category or tag as part of the line below a blog post’s title. Can be different from the name of the tag or category, as long as slug is identical to the name.
+slug
+Must be identical to the key used in the blog’s front matter, i.e. if you use categories: [jekyll] the slug must be jekyll. By default, the slug is derived from the title, but here it is recommended that you set it explicitly.
+description
+A medium-length description, used on the tag or category’s detail page and shown in a message box below the title.
+menu
+Set to to true if you want the category or tag to appear in the sidebar. For more information, see Adding an entry to the sidebar.
+Once the file is created, the page can be found at /category/<categoryname>/ or /tag/<tagname>/.
