@@ -2,8 +2,7 @@
 title: "INTJ Cognitive Alignment with AI and Tech Careers"
 subtitle: "What a Meta-Analysis of Jungian Functions Reveals About My Fit in the Industry"
 date: 2025-08-03
-tags: [INTJ, cognition, research, AI industry, Field Notes]
-categories: [Field Notes]
+tags: [field-notes, cognition, research, personality, career-transition]
 summary: "As an INTJ with a background in marketing and a growing presence in the AI/tech space, this paper helped validate the cognitive wiring behind my career pivot. Here's what it revealed—and how I'm using it to shape my direction."
 ---
 
