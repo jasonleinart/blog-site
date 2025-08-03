@@ -8,33 +8,28 @@ redirect_from:
   - /download/
 ---
 
-# About Jason
+# About 
 
 Marketing technologist bridging data, automation, and AI to build smarter systems. Strategic thinker focused on practical implementations.
 
 <!--author-->
 
-## My Current Mission
+## Mission
 
 I'm building practical frameworks for AI integration in marketing and business operations—focusing on real implementations that deliver measurable results.
 
 The AI transformation is happening now, but most organizations struggle with the gap between AI potential and practical application. **I bridge that gap**—developing strategic frameworks, proven workflows, and actionable insights for marketing professionals navigating this transformation.
 
+**Current Focus areas:**
+- AWS cloud architecture and data infrastructure
+- Marketing automation and AI agent workflows
+- Analytics systems and performance optimization
+- Strategic frameworks for human-AI collaboration
+
 ## Background & Evolution
 
 I bring deep experience in digital marketing and operations, where I've spent years optimizing systems and processes for growth-stage companies. Now I'm focused on integrating AI and automation into marketing workflows, driven by the conviction that these tools represent a fundamental shift in competitive advantage.
 
-**What I'm building:**
-- AI-powered marketing automation systems
-- Data infrastructure for analytics and insights
-- Strategic frameworks for human-AI collaboration
-- Practical implementations that bridge marketing and technology
-
-**Current focus areas:**
-- AWS cloud architecture and data infrastructure
-- Marketing automation and AI agent workflows
-- Analytics systems and performance optimization
-- Strategic consulting on AI integration
 
 ## Philosophy & Approach
 
@@ -66,4 +61,3 @@ It's part research notebook, part project documentation, part public learning ex
 - **[Mental Models](/mental-models/)** - Strategic frameworks and big-picture thinking
 - **[Now](/now/)** - Current focus and evolution tracking
 
-The site itself is an ongoing experiment in building systems that amplify human intelligence rather than replacing it.
