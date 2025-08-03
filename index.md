@@ -1,9 +1,5 @@
 ---
 layout: welcome
-description: >
-  Bridging marketing, data, and automation to build smarter systems. I'm Jason Leinart, 
-  a marketing technologist focused on AI-powered workflows, analytics infrastructure, 
-  and strategic growth. Explore my projects, experiments, and insights.
 cover: true
 selected_projects:
   - _projects/arxiv-mcp-server.md
