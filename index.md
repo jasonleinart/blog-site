@@ -6,7 +6,7 @@ selected_posts:
   - _posts/2025-01-07-agents-vs-automation.md
   - _posts/2025-01-09-scaling-laws-what-they-really-tell-us.md
 more_projects: projects.md
-more_posts: posts.md
+more_posts: blog.md
 featured: true
 ---
 
