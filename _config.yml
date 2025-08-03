@@ -55,6 +55,8 @@ feed:
 menu:
   - title:             Writing
     url:               /blog/
+  - title:             Three Horizons
+    url:               /three-horizons/
   - title:             Projects
     url:               /projects/
   - title:             About
