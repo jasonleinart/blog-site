@@ -17,7 +17,7 @@ more_posts: posts.md
 featured: true
 ---
 
-I'm **Jason Leinart**, and this is my field station at the edge of artificial intelligence. This isn't just another tech blog—it's a live research notebook documenting the practical reality of building with AI.
+I'm **Jason Leinart**, a marketing technologist bridging data, automation, and AI to build smarter systems. This is where I share practical frameworks, real implementations, and strategic insights from building at the intersection of marketing and artificial intelligence.
 
 <!--projects-->
 
