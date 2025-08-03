@@ -20,6 +20,8 @@ I organize my writing by format rather than topic, which lets ideas flow natural
 **🔧 [Build Logs](/tag-build-logs/)** - Technical walkthroughs and tutorials  
 **🧠 [Mental Models](/tag-mental-models/)** - Strategic frameworks and big-picture thinking
 
+## Latest Posts
+
 <!--posts-->
 
 ---
