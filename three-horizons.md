@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Three Horizons Philosophy
+title: "The Three Horizons of AI Integration: A Philosophy for the Future of Work"
 description: >
   A foundational framework for understanding how artificial intelligence transforms human work 
   across personal, collaborative, and organizational dimensions.
 permalink: /three-horizons/
 sitemap: true
 ---
-
-# The Three Horizons of AI Integration: A Philosophy for the Future of Work
-
-*A foundational framework for understanding how artificial intelligence transforms human work across personal, collaborative, and organizational dimensions*
 
 ## 🎯 Core Philosophy
 
