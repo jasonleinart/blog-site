@@ -1,17 +1,18 @@
 # Jason Leinart - Resume Data
-# Field Notes from the AI Frontier
+# AI Systems & Technology Integration Manager
 basics:
   name: "Jason Leinart"
-  label: "AI Systems & Automation Specialist"
+  label: "AI Systems & Technology Integration Manager"
   picture: ""
   email: "dspjson@gmail.com"
   phone: "(313) 353-2228"
   website: "https://jasonleinart.com"
   summary: >
-    Digital professional with 10+ years of experience in marketing, operations, and systems optimization,
-    currently making a strategic pivot to AI and automation. I specialize in building intelligent systems 
-    that amplify human capabilities and solve complex operational challenges. Currently focused on cloud 
-    architecture, AI agent frameworks, and the practical application of machine learning in business contexts.
+    AI Systems & Technology Integration professional with 10+ years experience in CRM administration, 
+    workflow automation, and cross-functional technology leadership. Proven track record implementing 
+    complex system integrations, managing vendor relationships, and leading digital transformation 
+    initiatives for $100M+ revenue organizations. Expert in evaluating and deploying AI tools, 
+    automation platforms, and business process optimization solutions.
   location:
     address: ""
     postalCode: ""
@@ -27,24 +28,45 @@ basics:
       url: "https://linkedin.com/in/jason-leinart"
 
 work:
+  - company: "Independent AI Strategy Consultant"
+    position: "AI Systems & Technology Integration Consultant"
+    website: "https://jasonleinart.com"
+    startDate: "2025-06-01"
+    endDate: null
+    summary: >
+      Following a strategic career transition, developing AI integration frameworks and consulting on 
+      technology optimization while managing family health priorities. Building practical AI systems 
+      and strategic methodologies for business process enhancement.
+    highlights:
+      - "Developed Three Horizons AI Integration Framework for systematic technology adoption across personal, team, and organizational levels"
+      - "Built multi-agent AI systems for automated research workflows and content optimization"
+      - "Created comprehensive documentation and training materials for AI tool evaluation and implementation"
+      - "Published strategic frameworks and thought leadership on AI systems integration and collaborative cognition"
+      - "Designed process optimization methodologies for workflow automation and system integration"
+
   - company: "31st Street Capital"
-    position: "Digital Marketing Manager"
+    position: "Digital Marketing Manager & Systems Integration Lead"
     website: ""
     startDate: "2021-06-01"
     endDate: "2025-05-31"
     summary: >
-      Full-time remote position managing comprehensive digital marketing operations for investment firm.
-      Responsible for multi-platform advertising strategy and marketing automation implementation.
+      Led comprehensive technology integration and CRM administration for investment firm managing 
+      $100M+ revenue portfolio. Responsible for system architecture, vendor management, and 
+      cross-functional collaboration across marketing, sales, and operations teams.
     highlights:
-      - "Manage $2.5M annually in Google/Facebook/Microsoft/TikTok advertising spend"
-      - "Implement marketing automation strategies in Go High Level"
-      - "Design and execute SEO strategies to improve website traffic and lead generation conversions"
+      - "Implemented Go High Level CRM system for $100M revenue portfolio company, managing both lead generation and warranty support ticket workflows"
+      - "Built custom API integrations connecting Go High Level to BigQuery and proprietary sales software (Rollmaster) for centralized data management"
+      - "Developed Google Cloud Functions in Python to replace Zapier automations, improving system efficiency and reducing operational costs"
+      - "Created comprehensive data dashboards integrating CRM, advertising platforms, and business intelligence systems"
+      - "Managed $2.5M annual advertising spend across Google, Facebook, Microsoft, and TikTok platforms with automated reporting and optimization"
+      - "Led cross-functional collaboration between marketing, sales, and operations teams to ensure seamless system adoption and workflow optimization"
+      - "Conducted vendor evaluation and management for SaaS platforms, negotiating contracts and ensuring system integration requirements"
 
   - company: "Detroit Optimist Society Restaurant Group"
     position: "Marketing Director"
     website: ""
-    startDate: "2016-08-01"
-    endDate: "2020-08-31"
+    startDate: "2015-06-01"
+    endDate: "2020-05-31"
     summary: >
       The Detroit Optimist Society is the management group responsible for industry leading bars and restaurants
       in Detroit including The Sugar House, Wright & Company, The Peterboro, Honest John's, Bad Luck, Mutiny,
@@ -86,42 +108,49 @@ publications:
     summary: "Comprehensive course on building custom AI assistants using OpenAI's GPT technology, covering prompt engineering, ChatGPT integration, and AI personalization techniques."
 
 skills:
-  - name: "AI & Machine Learning"
+  - name: "CRM & Business Systems"
     keywords:
-      - "LangChain"
-      - "CrewAI"
-      - "OpenAI GPT"
-      - "AI Agent Architecture"
-      - "Prompt Engineering"
+      - "Go High Level CRM Administration"
+      - "CRM Migration & Implementation"
+      - "System Integration & API Development"
+      - "Workflow Automation"
+      - "Vendor Relationship Management"
+      - "Cross-functional Team Leadership"
 
-  - name: "Cloud & Infrastructure"
+  - name: "AI & Automation Integration"
     keywords:
-      - "AWS (EC2, Lambda, S3)"
-      - "Google Cloud Platform"
-      - "Serverless Architecture"
-      - "API Integration"
-
-  - name: "Programming & Development"
-    keywords:
-      - "Python"
-      - "JavaScript"
-      - "API Development"
-      - "Data Analysis"
-      - "Git/GitHub"
-
-  - name: "Data & Analytics"
-    keywords:
-      - "Data Pipeline Design"
-      - "Analytics Implementation"
-      - "Business Intelligence"
-      - "Airtable/Database Design"
-
-  - name: "Systems & Operations"
-    keywords:
-      - "Process Automation"
+      - "AI Tool Evaluation & Implementation"
+      - "Multi-agent System Development"
+      - "Process Automation Design"
       - "Workflow Optimization"
-      - "Project Management"
-      - "Cross-functional Leadership"
+      - "AI Strategy & Framework Development"
+      - "LangChain, CrewAI, OpenAI GPT"
+
+  - name: "Technical Integration"
+    keywords:
+      - "API Development & Integration"
+      - "Google Cloud Functions"
+      - "BigQuery Data Management"
+      - "Python Automation Scripts"
+      - "Zapier Workflow Automation"
+      - "Microsoft 365 Integration"
+
+  - name: "Data & Analytics Systems"
+    keywords:
+      - "Business Intelligence Dashboards"
+      - "Data Pipeline Architecture"
+      - "Analytics Implementation"
+      - "Database Design & Management"
+      - "Reporting Automation"
+
+  - name: "Project & Vendor Management"
+    keywords:
+      - "Technology Stack Evaluation"
+      - "System Migration Projects"
+      - "Vendor Contract Negotiation"
+      - "Documentation & Training"
+      - "Change Management"
+      - "Process Documentation"
 
 languages:
   - language: "English"
