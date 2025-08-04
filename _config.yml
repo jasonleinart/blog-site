@@ -54,6 +54,8 @@ feed:
 
 # Add links to the sidebar.
 menu:
+  - title:             Start Here
+    url:               /start-here/
   - title:             Writing
     url:               /blog/
   - title:             Three Horizons
