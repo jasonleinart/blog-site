@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Start Here
-description: New to the site? This guide helps you navigate my thinking on AI integration, strategic frameworks, and practical implementation approaches.
+title: Welcome to the AI Frontier
+description: I'm Jason Leinart, and I help organizations and individuals navigate the practical integration of AI into real work. If you're new here, this page will guide you through my core thinking and best content.
 permalink: /start-here/
 sitemap: true
 ---
