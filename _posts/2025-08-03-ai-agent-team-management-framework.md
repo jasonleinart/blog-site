@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Agent Team Management: From Individual AI to Collaborative Intelligence"
-date: 2025-08-05 09:00:00
+date: 2025-08-03 10:00:00
 author: author1
 tags: [mental-models, team-horizon, agents, coordination, multi-agent-systems]
 description: >

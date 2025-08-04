@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizational AI Intelligence: Building the Adaptive Enterprise"
-date: 2025-08-06 09:00:00
+date: 2025-08-03 11:00:00
 author: author1
 tags: [mental-models, org-horizon, process-intelligence, enterprise-ai, organizational-design]
 description: >
