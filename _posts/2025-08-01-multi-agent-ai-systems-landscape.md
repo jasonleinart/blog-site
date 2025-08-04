@@ -6,6 +6,8 @@ tags: [team-horizon, agents, strategy, orchestration, infrastructure, mental-mod
 author: Jason Leinart
 ---
 
+# The Multi-Agent Revolution: How AI Teams Are Reshaping Strategy
+
 ## The Hidden Revolution in AI That's Changing Everything
 
 Most people think of AI as a single, powerful assistant—one AI handling one task. But here's what they're missing: the real breakthrough isn't individual AI agents, it's **multi-agent systems** that orchestrate hundreds or thousands of specialized AI agents working together.
