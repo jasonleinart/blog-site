@@ -13,7 +13,7 @@ menu: false
 order: 4
 ---
 
-# 🧑‍💻 Personal Horizon (Horizon 1)
+# 🧑‍💻 Personal Horizon
 
 Content exploring **AI as Personal Operating System** - the individual frontier of human-AI collaboration.
 
