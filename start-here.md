@@ -53,9 +53,9 @@ This is the intellectual foundation for everything I write about. It explains ho
 
 **⛺ [Field Notes](/tag-field-notes/)** - I analyze research papers, industry trends, and emerging patterns. Think of these as intelligence reports from the AI frontier.
 
-**[Build Logs](/tag-build-logs/)** - Technical documentation of projects I'm building. These show AI integration in practice, not just theory.
+**🔧 [Build Logs](/tag-build-logs/)** - Technical documentation of projects I'm building. These show AI integration in practice, not just theory.
 
-**[Mental Models](/tag-mental-models/)** - Strategic frameworks and big-picture thinking. These help you understand not just what to build, but why and how.
+**🧠 [Mental Models](/tag-mental-models/)** - Strategic frameworks and big-picture thinking. These help you understand not just what to build, but why and how.
 
 ### Recommended Reading Path
 
