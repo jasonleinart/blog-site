@@ -2,15 +2,17 @@
 layout: welcome
 cover: true
 selected_posts:
+  - _posts/2025-08-03-personal-ai-strategy-framework.md
+  - _posts/2025-08-03-intj-fit-in-tech.md
   - _posts/2025-01-08-gpt-research-assistant-build.md
-  - _posts/2025-01-07-agents-vs-automation.md
-  - _posts/2025-01-09-scaling-laws-what-they-really-tell-us.md
 more_projects: projects.md
 more_posts: posts.md
 featured: true
 ---
 
 I'm **Jason Leinart**, a marketing technologist bridging data, automation, and AI to build smarter systems. This is where I share practical frameworks, real implementations, and strategic insights from building at the intersection of marketing and artificial intelligence.
+
+**New here?** Check out the **[Start Here](/start-here/)** guide, or dive into my **[Three Horizons Philosophy](/three-horizons/)**.
 
 ## How I Write
 
