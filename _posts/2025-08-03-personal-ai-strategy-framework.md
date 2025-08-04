@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Personal AI Strategy Framework: Your Individual Operating System"
-date: 2025-08-04 09:00:00
+date: 2025-08-03 09:00:00
 author: author1
 tags: [mental-models, personal-horizon, ai-strategy, productivity, cognitive-augmentation]
 description: >
