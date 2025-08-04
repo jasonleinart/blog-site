@@ -6,8 +6,6 @@ permalink: /start-here/
 sitemap: true
 ---
 
-I'm Jason Leinart, and I help organizations and individuals navigate the practical integration of AI into real work. If you're new here, this page will guide you through my core thinking and best content.
-
 ## Who This Is For
 
 - **Marketing professionals** exploring AI integration
