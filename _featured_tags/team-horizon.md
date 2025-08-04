@@ -25,12 +25,6 @@ Content exploring **The Team-AI Revolution** - how AI transforms management, lea
 - **Change Leadership** - Navigating identity shifts and organizational transformation
 - **Collective Intelligence** - Building teams that leverage both human insight and AI execution
 
-## The Revolution
-
-When AI can handle 70-80% of traditional knowledge work, the fundamental nature of teams, management, and career progression changes forever. This isn't about efficiency gains—it's about reimagining what teams are capable of when AI becomes a collaborative partner rather than just a tool.
-
-The strategic questions every leader faces: How does management value shift from coordination to orchestration? What new career models emerge when impact matters more than team size? How do you design teams for AI-native collaboration?
-
 ## Framework Connection
 
 This content represents **Horizon 2** of the [Three Horizons Philosophy](/three-horizons/) - the crucial bridge between individual AI mastery and organizational transformation. Teams that master AI collaboration become the foundation for organization-wide intelligence.
