@@ -9,7 +9,7 @@ description: >
   How to build your personal AI operating system for maximum cognitive leverage.
 ---
 
-# Personal AI Strategy Framework
+## Personal AI Strategy Framework
 
 **The Individual Frontier: Building Your AI Operating System**
 

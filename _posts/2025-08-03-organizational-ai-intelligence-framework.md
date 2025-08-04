@@ -9,7 +9,7 @@ description: >
   with AI as the intelligent nervous system for continuous learning and optimization.
 ---
 
-# Organizational AI Intelligence Framework
+## Organizational AI Intelligence Framework
 
 **The Enterprise Frontier: AI as Organizational Nervous System**
 
