@@ -20,7 +20,7 @@ Start with my **[comprehensive guide](/start-here/)** that walks you through my 
 
 I organize my writing by format rather than topic, which lets ideas flow naturally across boundaries:
 
-**🧪 [Field Notes](/tag-field-notes/)** - Research logs and paper analysis  
+**⛺ [Field Notes](/tag-field-notes/)** - Research logs and paper analysis  
 **🔧 [Build Logs](/tag-build-logs/)** - Technical walkthroughs and tutorials  
 **🧠 [Mental Models](/tag-mental-models/)** - Strategic frameworks and big-picture thinking
 

@@ -51,7 +51,7 @@ This is the intellectual foundation for everything I write about. It explains ho
 
 ### Content Types Explained
 
-**[Field Notes](/tag-field-notes/)** - I analyze research papers, industry trends, and emerging patterns. Think of these as intelligence reports from the AI frontier.
+**⛺ [Field Notes](/tag-field-notes/)** - I analyze research papers, industry trends, and emerging patterns. Think of these as intelligence reports from the AI frontier.
 
 **[Build Logs](/tag-build-logs/)** - Technical documentation of projects I'm building. These show AI integration in practice, not just theory.
 
