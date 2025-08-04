@@ -21,7 +21,7 @@ sitemap: true
 This is the intellectual foundation for everything I write about. It explains how AI transforms work across three interconnected levels:
 
 - **Horizon 1: Personal AI** - Individual cognitive augmentation ([Framework →](/blog/personal-ai-strategy-framework/))
-- **Horizon 2: Agent Teams** - Collaborative AI systems ([Framework →](/blog/ai-agent-team-management-framework/))
+- **Horizon 2: Team-AI Collaboration** - Management evolution and collective intelligence ([Framework →](/blog/ai-agent-team-management-framework/))
 - **Horizon 3: Process Intelligence** - Organizational transformation ([Framework →](/blog/organizational-ai-intelligence-framework/))
 
 **Time investment:** 15 minutes  
