@@ -156,10 +156,10 @@ This isn't about keeping up with others—it's about unlocking your own potentia
 
 This Personal AI framework serves as **Horizon 1** in the [Three Horizons Philosophy](/three-horizons/)—the essential foundation for:
 
-### → Horizon 2: AI Agent Teams
-Master personal AI first, then learn to orchestrate and lead AI agent teams for collaborative intelligence and specialized task coordination.
+### → Horizon 2: Team-AI Collaboration
+Master personal AI first, then learn to orchestrate AI collaboration with human teams. This includes multi-agent systems, AI-enhanced team workflows, and collaborative intelligence that amplifies collective human capabilities.
 
-**[Explore AI Agent Teams →](/multi-agent-systems-strategy/)**
+**[Explore Team-AI Collaboration →](/ai-agent-team-management-framework/)**
 
 ### → Horizon 3: Process Intelligence  
 Personal AI mastery enables you to design and implement organizational AI systems that transform business processes and create competitive advantages.

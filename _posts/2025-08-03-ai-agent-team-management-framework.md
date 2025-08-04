@@ -1,36 +1,36 @@
 ---
 layout: post
-title: "AI Agent Team Management: From Individual AI to Collaborative Intelligence"
+title: "Team-AI Collaboration Framework: From Individual AI to Collective Intelligence"
 date: 2025-08-03 10:00:00
 author: author1
-tags: [mental-models, team-horizon, agents, coordination, multi-agent-systems]
+tags: [mental-models, team-horizon, agents, coordination, multi-agent-systems, team-collaboration]
 description: >
-  Strategic framework for managing AI agent teams. How to coordinate specialized AI agents 
-  for collaborative intelligence that neither humans nor individual AIs could achieve alone.
+  Strategic framework for team-AI collaboration. How human teams work with AI systems 
+  to achieve collaborative intelligence that amplifies collective capabilities.
 ---
 
-# AI Agent Team Management Framework
+## Team-AI Collaboration Framework
 
-**The Collaborative Frontier: Orchestrating Specialized Intelligence**
+**The Collaborative Frontier: Human Teams + AI Systems**
 
-Most AI implementations focus on individual tools or simple automations. The next frontier is **coordinated agent teams**—specialized AIs working together under human leadership to achieve complex, multi-dimensional objectives.
+Most AI implementations focus on individual tools or simple automations. The next frontier is **team-AI collaboration**—human teams working with AI systems to achieve complex, multi-dimensional objectives that neither could accomplish alone.
 
-This framework provides a systematic approach to **AI Agent Team Management** based on Horizon 2 of the [Three Horizons Philosophy](/three-horizons/).
+This framework provides a systematic approach to **Team-AI Collaboration** based on Horizon 2 of the [Three Horizons Philosophy](/three-horizons/).
 
 ---
 
 ## The Core Philosophy
 
-**AI Agents as Specialized Team Members**
+**AI as Team Collaboration Partner**
 
-Effective AI teams mirror successful human teams: diverse specializations, clear roles, coordinated effort, and strong leadership. The magic happens in the **coordination layer** where individual capabilities become collective intelligence.
+Effective team-AI collaboration amplifies human team capabilities through strategic AI integration. The magic happens in the **collaboration layer** where human expertise and AI capabilities combine to create collective intelligence greater than the sum of its parts.
 
 ### Key Principles
 
-1. **Specialization over Generalization** - Different agents for different capabilities
-2. **Coordination over Independence** - Agents work toward shared objectives
-3. **Human Leadership** - Strategic vision and final decision authority
-4. **Continuous Learning** - Team improves through experience and feedback
+1. **Human-Centered Design** - AI serves human team objectives, not the other way around
+2. **Complementary Capabilities** - AI handles what it does best, humans handle what they do best
+3. **Team Leadership** - Human teams maintain strategic vision and decision authority
+4. **Continuous Adaptation** - Collaboration patterns evolve as teams and AI capabilities develop
 
 ---
 
@@ -164,13 +164,13 @@ Self-organizing teams with emergent capabilities
 
 ## Framework Connection
 
-This AI Agent Team Management framework implements **Horizon 2** of the [Three Horizons Philosophy](/three-horizons/)—building on [Personal AI capabilities](/tag-personal-horizon/) to enable [Organizational Intelligence](/tag-org-horizon/) at scale.
+This Team-AI Collaboration framework implements **Horizon 2** of the [Three Horizons Philosophy](/three-horizons/)—building on [Personal AI capabilities](/tag-personal-horizon/) to enable [Organizational Intelligence](/tag-org-horizon/) at scale.
 
 **Related Content:**
 - [All Team Horizon Content](/tag-team-horizon/)
-- [Multi-Agent System Builds](/tag-team-horizon/) (filtered for build-logs)
-- [Agent Coordination Research](/tag-team-horizon/) (filtered for field-notes)
+- [Multi-Agent System Examples](/tag-team-horizon/) (filtered for build-logs)
+- [Team-AI Collaboration Research](/tag-team-horizon/) (filtered for field-notes)
 
 ---
 
-*Effective AI team management is more art than science. Start small, learn from coordination challenges, and scale gradually as capabilities develop.*
+*Effective team-AI collaboration requires balancing human expertise with AI capabilities. Start with clear objectives, learn from collaboration patterns, and scale gradually as trust and capabilities develop.*
