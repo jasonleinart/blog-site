@@ -45,11 +45,7 @@ This is the intellectual foundation for everything I write about. It explains ho
 **[Multi-Agent AI Systems Landscape](/blog/multi-agent-ai-systems-landscape/)**  
 *Comprehensive overview of current multi-agent architectures*
 
-### If you're navigating career transition...
 
-**[About Page](/about/)** - My background and evolution  
-**[Now Page](/now/)** - Current focus and projects  
-**[Resume](/resume/)** - Professional experience and skills
 
 ## How to Follow Along
 
