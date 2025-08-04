@@ -24,7 +24,7 @@ I'm Jason Leinart, and I help organizations and individuals navigate the practic
 
 This is the intellectual foundation for everything I write about. It explains how AI transforms work across three interconnected levels:
 
-- **Horizon 1: Personal AI** - Individual cognitive augmentation
+- **Horizon 1: Personal AI** - Individual cognitive augmentation ([Framework →](/blog/personal-ai-strategy-framework/))
 - **Horizon 2: Agent Teams** - Collaborative AI systems  
 - **Horizon 3: Process Intelligence** - Organizational transformation
 
