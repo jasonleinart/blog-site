@@ -12,7 +12,7 @@ accent_image:
 menu_parent: /blog/
 ---
 
-# 🧪 Field Notes
+# ⛺ Field Notes
 
 My research notebook made public. These are my logs from exploring AI papers, tracking emerging patterns, and translating academic insights into practical understanding.
 

@@ -14,7 +14,7 @@ related_posts:
   - /blog/agents-vs-automation
 ---
 
-# 🧪 Field Notes: Scaling Laws—What They Really Tell Us
+# ⛺ Field Notes: Scaling Laws—What They Really Tell Us
 
 **Paper:** "Scaling Laws for Neural Language Models" (Kaplan et al., 2020) + recent extensions
 **Key Insight:** Predictable performance improvements with scale, but with practical limitations most miss
