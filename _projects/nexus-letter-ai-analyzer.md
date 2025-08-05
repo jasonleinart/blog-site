@@ -1,6 +1,7 @@
 ---
 layout: project
 title: 'Nexus Letter AI Analyzer'
+name: 'Nexus Letter AI Analyzer'
 caption: Production-ready AI-powered analysis system for VA disability nexus letters
 description: >
   A comprehensive AI-powered web application that analyzes VA disability nexus letters using OpenAI GPT-4. 
