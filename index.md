@@ -25,9 +25,6 @@ I organize my writing by format rather than topic, which lets ideas flow natural
 
 ## Latest Posts
 
-**[Personal AI Strategy Framework: Your Individual Operating System](/three-horizons/personal-ai/)**  
-*A comprehensive framework for integrating AI into personal work and thinking processes.*
-
 **[INTJ Cognitive Alignment with AI and Tech Careers](/blog/intj-fit-in-tech/)**  
 *What a meta-analysis of Jungian functions reveals about my fit in the industry.*
 
@@ -38,6 +35,16 @@ I organize my writing by format rather than topic, which lets ideas flow natural
 *Strategic framework for understanding when to use AI agents versus traditional automation.*
 
 [View all posts →](/blog/)
+
+## Recent Projects
+
+**[Arxiv MCP Server](/projects/arxiv-mcp-server/)**  
+*A Model Context Protocol server for accessing arXiv research papers and metadata.*
+
+**[Nexus Letter AI Analyzer](/projects/nexus-letter-ai-analyzer/)**  
+*An AI-powered tool for analyzing and optimizing legal cover letters and applications.*
+
+[View all projects →](/projects/)
 
 ---
 
