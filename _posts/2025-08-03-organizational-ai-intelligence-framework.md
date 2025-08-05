@@ -2,9 +2,6 @@
 layout: post
 title: "The Organizational AI Revolution: From Hierarchies to Intelligent Systems"
 permalink: /blog/organizational-ai/
-redirect_from:
-  - /blog/2025/08/03/organizational-ai-intelligence-framework/
-  - /2025/08/03/organizational-ai-intelligence-framework/
 date: 2025-08-03 11:00:00
 author: author1
 tags: [mental-models, org-horizon, process-intelligence, enterprise-ai, organizational-transformation]

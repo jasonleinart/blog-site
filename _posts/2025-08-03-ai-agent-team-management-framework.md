@@ -2,9 +2,6 @@
 layout: post
 title: "AI as OS: Preparing Teams for Collaborative Intelligence"
 permalink: /blog/team-ai/
-redirect_from:
-  - /blog/2025/08/03/ai-agent-team-management-framework/
-  - /2025/08/03/ai-agent-team-management-framework/
 date: 2025-08-03 10:00:00
 author: author1
 tags: [mental-models, team-horizon, leadership, management-evolution, team-collaboration, organizational-change]
