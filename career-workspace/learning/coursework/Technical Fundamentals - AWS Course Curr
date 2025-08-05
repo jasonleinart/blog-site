@@ -1,0 +1,103 @@
+Technical Fundamentals - AWS Course Curriculum (Cantrill.io)
+ Layer 1 - Physical (10:00 )
+COURSE INTRODUCTION
+ 
+ Connect with me and join the community (3:10 )
+ 
+ SPECIAL OFFERS !!! READ ME
+OSI 7-Layer Networking Model
+ 
+ OSI Model Introduction (4:46 )
+ 
+Start Layer 1 - Physical (10:00 )
+ 
+Start Layer 2 - DataLink - PART1 (8:47 )
+ 
+Start Layer 2 - DataLink - PART2 (14:24 )
+ 
+Start Layer 3 - Network - PART1 (12:06 )
+ 
+Start Layer 3 - Network - PART2 (19:13 )
+ 
+Start Layer 3 - Network - PART3 (15:15 )
+ 
+Start Layer 4&5 - Transport & Session - PART1 (15:39 )
+ 
+Start Layer 4&5 - Transport & Session - PART2 (13:54 )
+Other Networking (MORE COMING SOON)
+ 
+Start Network Address Translation (NAT) - PART1 (11:00 )
+ 
+Start Network Address Translation (NAT) - PART2 (9:38 )
+ 
+Start IP Address Space & Subnetting - PART1 (14:37 )
+ 
+Start IP Address Space & Subnetting - PART2 (10:32 )
+ 
+Start Distributed Denial of Service (DDOS) Attacks (14:35 )
+ 
+Start VLANs, TRUNKS & QinQ (16:14 )
+ 
+Start Decimal to Binary Conversion (IP Addressing) (17:12 )
+ 
+Start SSL & TLS (11:19 )
+ 
+Start Border Gateway Protocol (BGP) 101 (17:03 )
+ 
+Start Stateful vs Stateless Firewalls (14:04 )
+ 
+Start JumboFrames (4:35 )
+ 
+Start Layer 7 Firewalls (7:44 )
+ 
+Start IP Sec VPN Fundamentals (14:48 )
+ 
+Start Fibre Optic Cable 101 (11:21 )
+Security (MORE COMING SOON)
+ 
+Start Encryption 101 - PART1 (13:56 )
+ 
+Start Encryption 101 - PART2 (6:42 )
+ 
+Start Envelope Encryption (8:06 )
+ 
+Start Hardware Security Modules (HSMs) (6:40 )
+ 
+Start Hash Functions & Hashing (13:19 )
+ 
+Start Digital Signatures (9:26 )
+DNS & DNSSEC
+ 
+Start DNS #1 - What does DNS do (2:56 )
+ 
+Start DNS #2 - Why does DNS need a complex architecture (13:19 )
+ 
+Start DNS #3 - How DNS actually works ... walking the tree (8:46 )
+ 
+Start DNS #4 - What happens when a domain is registered? (4:27 )
+ 
+Start DNSSEC #1 - Why do we need DNSSEC (11:08 )
+ 
+Start DNSSEC #2 - How DNSSEC Works within a Zone (17:34 )
+ 
+Start DNSSEC #3 - DNSSEC Chain of Trust (8:16 )
+ 
+Start DNSSEC #4 - DNSSEC Root Signing Ceremony (7:53 )
+Containers & Virtualization (MORE COMING SOON)
+ 
+Start Kubernetes 101 (11:27 )
+Backups & DR (MORE COMING SOON)
+ 
+Start Recovery Point Objective (RPO) & Recovery Time Objective (RTO) (16:54 )
+Data Formats & Configuration Formats (MORE COMING SOON)
+ 
+Start YAML aint markup language (YAML) 101 (6:12 )
+ 
+Start Javascript Object Notation (JSON) 101 (4:25 )
+Cloud Computing 101
+ 
+Start What is Cloud Computing? (13:30 )
+ 
+Start Public vs Private vs Multi vs Hybrid Cloud .. (8:38 )
+ 
+Start Cloud Service Models (IAAS, PAAS, SAAS) (10:25 )
