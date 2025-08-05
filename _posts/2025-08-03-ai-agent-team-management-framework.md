@@ -111,10 +111,10 @@ Your team-AI journey begins with establishing shared AI capabilities across your
 Team-AI collaboration represents **Horizon 2** in the [Three Horizons Philosophy](/three-horizons/)—the crucial bridge between individual AI mastery and organizational transformation. This framework positions team-AI capabilities as the foundation for enterprise-wide transformation while building on personal AI skills.
 
 ### → Builds on Horizon 1: Personal AI Mastery
-Teams can only effectively collaborate with AI when individuals have developed strong personal AI relationships. Without personal AI mastery, team-AI integration becomes a coordination challenge rather than a capability amplifier. [Master Personal AI First →](/personal-ai-strategy-framework/)
+Teams can only effectively collaborate with AI when individuals have developed strong personal AI relationships. Without personal AI mastery, team-AI integration becomes a coordination challenge rather than a capability amplifier. [Master Personal AI First →](/blog/personal-ai/)
 
 ### → Enables Horizon 3: Organizational AI Intelligence
-Team-AI collaboration capabilities become the foundation for organization-wide AI integration and process transformation. Organizations that succeed at AI transformation do so by scaling proven team-AI patterns rather than implementing top-down AI strategies. [Explore Organizational AI →](/organizational-ai-intelligence-framework/)
+Team-AI collaboration capabilities become the foundation for organization-wide AI integration and process transformation. Organizations that succeed at AI transformation do so by scaling proven team-AI patterns rather than implementing top-down AI strategies. [Explore Organizational AI →](/blog/organizational-ai/)
 
 The Three Horizons progression ensures systematic capability building: start with personal AI mastery, develop team-AI collaboration, then scale to organizational AI intelligence. Each horizon builds on the previous one, creating compound advantages that become sustainable competitive differentiation.
 

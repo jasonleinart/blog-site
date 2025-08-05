@@ -25,7 +25,7 @@ I organize my writing by format rather than topic, which lets ideas flow natural
 
 ## Latest Posts
 
-**[Personal AI Strategy Framework: Your Individual Operating System](/blog/personal-ai-strategy-framework/)**  
+**[Personal AI Strategy Framework: Your Individual Operating System](/blog/personal-ai/)**  
 *A comprehensive framework for integrating AI into personal work and thinking processes.*
 
 **[INTJ Cognitive Alignment with AI and Tech Careers](/blog/intj-fit-in-tech/)**  

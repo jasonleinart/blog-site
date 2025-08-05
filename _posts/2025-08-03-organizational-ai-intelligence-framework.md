@@ -139,10 +139,10 @@ These organizations operate with fundamentally different assumptions about plann
 This Organizational AI Revolution framework represents **Horizon 3** in the [Three Horizons Philosophy](/three-horizons/)—the culmination of individual and team AI mastery scaled to enterprise transformation:
 
 ### → Built on Horizon 1: Personal AI Mastery
-Organizations can only effectively implement enterprise AI when individuals throughout the company have developed strong personal AI capabilities. [Start with Personal AI →](/personal-ai-strategy-framework/)
+Organizations can only effectively implement enterprise AI when individuals throughout the company have developed strong personal AI capabilities. [Start with Personal AI →](/blog/personal-ai/)
 
 ### → Enabled by Horizon 2: Team-AI Collaboration  
-Enterprise AI succeeds when built on proven team-AI collaboration patterns rather than trying to skip directly from individual AI use to organizational transformation. [Explore Team-AI Collaboration →](/ai-agent-team-management-framework/)
+Enterprise AI succeeds when built on proven team-AI collaboration patterns rather than trying to skip directly from individual AI use to organizational transformation. [Explore Team-AI Collaboration →](/blog/team-ai/)
 
 ### → Horizon 3: Enterprise Intelligence
 Personal AI mastery and team-AI collaboration create the foundation for organizations that can compete, adapt, and evolve through AI-amplified intelligence rather than just AI-enhanced efficiency.
