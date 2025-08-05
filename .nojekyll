@@ -1,0 +1,2 @@
+# This file tells GitHub Pages to skip the default Jekyll build process
+# and only use our custom GitHub Actions workflow in .github/workflows/pages.yml 
