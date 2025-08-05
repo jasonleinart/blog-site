@@ -85,7 +85,7 @@ AI becomes your intelligent interface to the entire digital world—orchestratin
 
 This horizon focuses on human-AI collaboration at the individual scale, where AI amplifies personal cognitive and creative capabilities. Rather than using separate AI tools, you develop a symbiotic relationship where AI becomes an extension of your own thinking and capability. The transformation shifts your role from information processor to insight generator, from technical executor to strategic visionary.
 
-[**Deep Dive: Personal AI Strategy Framework →**](/blog/personal-ai/)
+[**Deep Dive: Personal AI Strategy Framework →**](/three-horizons/personal-ai/)
 
 ---
 
@@ -97,7 +97,7 @@ AI evolves from individual productivity tool to becoming the collaborative intel
 
 This horizon focuses on collective intelligence where AI agents become specialized team members with distinct capabilities and roles. Teams develop the ability to coordinate human expertise with AI capabilities, creating collaborative intelligence that exceeds what either humans or AI could achieve independently. The transformation enables small teams to achieve enterprise-level outputs through sophisticated AI amplification.
 
-[**Deep Dive: Team AI Collaboration Framework →**](/blog/team-ai/)
+[**Deep Dive: Team AI Collaboration Framework →**](/three-horizons/team-ai/)
 
 ---
 
@@ -109,7 +109,7 @@ AI evolves from departmental efficiency tool to becoming the enterprise intellig
 
 This horizon focuses on AI as organizational nervous system that senses, processes, and responds to information across all business functions. Organizations develop adaptive, learning capabilities that continuously optimize performance and competitive positioning. The transformation creates AI-native enterprises that achieve sustainable competitive moats through superior efficiency and adaptive capability.
 
-[**Deep Dive: Organizational AI Framework →**](/blog/organizational-ai/)
+[**Deep Dive: Organizational AI Framework →**](/three-horizons/organizational-ai/)
 
 ---
 
@@ -147,9 +147,9 @@ Organizations and individuals developing systematic approaches to AI integration
 
 For detailed investment requirements, ROI analysis, and strategic decision criteria, explore the individual horizon frameworks:
 
-- [**Personal AI Strategy →**](/blog/personal-ai/) - Individual competitive advantage through AI mastery
-- [**Team AI Collaboration →**](/blog/team-ai/) - Collective intelligence and collaborative capabilities  
-- [**Organizational AI →**](/blog/organizational-ai/) - Enterprise transformation and competitive positioning
+- [**Personal AI Strategy →**](/three-horizons/personal-ai/) - Individual competitive advantage through AI mastery
+- [**Team AI Collaboration →**](/three-horizons/team-ai/) - Collective intelligence and collaborative capabilities
+- [**Organizational AI →**](/three-horizons/organizational-ai/) - Enterprise transformation and competitive positioning
 
 <!-- ### **Economic Analysis Framework**
 
