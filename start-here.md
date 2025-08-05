@@ -71,11 +71,7 @@ I'm always interested in connecting with people working at the intersection of A
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/jason-leinart)
 - **GitHub:** [@jasonleinart](https://github.com/jasonleinart) (see what I'm building)
 
-**What I'm most interested in discussing:**
-- AI implementation challenges and solutions
-- Strategic frameworks for AI integration
-- Career transitions into AI/tech roles
-- Marketing automation and intelligence systems
+
 
 ## What's Next?
 
