@@ -26,7 +26,7 @@ theme_color: '#193747'
 featured: true
 ---
 
-## Overview
+## ArXiv MCP Server
 
 The ArXiv MCP Server bridges the gap between Large Language Models and academic research by providing structured access to arXiv papers through the Model Context Protocol. Built with a Docker-first approach, it's designed for easy deployment and integration with AI assistants.
 
