@@ -12,7 +12,7 @@ sitemap: true
 - **Business leaders** planning AI strategy  
 - **Technical professionals** building AI systems
 - **Career transitioners** moving into AI/tech roles
-- **Technology enthusiasts** nerding out
+- **Technology enthusiasts** excited about AI future
 
 ## Start with the Foundation
 
