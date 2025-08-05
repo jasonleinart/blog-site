@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "AI as OS: Preparing Teams for Collaborative Intelligence"
+permalink: /blog/team-ai/
+redirect_from:
+  - /blog/2025/08/03/ai-agent-team-management-framework/
+  - /2025/08/03/ai-agent-team-management-framework/
 date: 2025-08-03 10:00:00
 author: author1
 tags: [mental-models, team-horizon, leadership, management-evolution, team-collaboration, organizational-change]
@@ -113,8 +117,6 @@ Teams can only effectively collaborate with AI when individuals have developed s
 Team-AI collaboration capabilities become the foundation for organization-wide AI integration and process transformation. Organizations that succeed at AI transformation do so by scaling proven team-AI patterns rather than implementing top-down AI strategies. [Explore Organizational AI →](/organizational-ai-intelligence-framework/)
 
 The Three Horizons progression ensures systematic capability building: start with personal AI mastery, develop team-AI collaboration, then scale to organizational AI intelligence. Each horizon builds on the previous one, creating compound advantages that become sustainable competitive differentiation.
-
----
 
 
 ---
