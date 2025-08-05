@@ -28,7 +28,9 @@ The Three Horizons Philosophy maps the emerging patterns of AI integration acros
 
 ## Background & Evolution
 
-I bring 9 years of marketing experience optimizing systems and processes for hospitality and home services companies, combined with academic background and deep research skills. Professional psychological profiling identifies me as a "Maverick" - an innovative, outside-the-box thinker undaunted by failure. My INTJ pattern recognition capabilities allow me to see technological transformation trajectories before they become obvious to the broader market.
+I bring 9 years of marketing experience optimizing systems and processes for hospitality and home services companies, combined with academic background and deep research skills. A psych profile labeled me a Maverick - an innovative, outside-the-box thinker undaunted by failure. My INTJ pattern recognition capabilities allow me to see technological transformation trajectories before they become obvious to the broader market.
+
+**[INTJ Cognitive Alignment with AI and Tech Careers](/blog/intj-fit-in-tech/)** - Personal reflection on how my cognitive patterns align with AI work and the broader tech industry transformation.
 
 Currently pursuing AWS Solutions Architect certification and advancing technical capabilities through systematic study of cloud architecture, data analytics, and AI implementation patterns. This transition from marketing practitioner to strategic framework developer reflects the conviction that AI integration represents a fundamental shift requiring new analytical tools.
 

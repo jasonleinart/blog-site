@@ -32,9 +32,6 @@ This is the intellectual foundation for everything I write about. It explains ho
 
 ### If you're interested in AI Strategy...
 
-**[INTJ Cognitive Alignment with AI and Tech Careers](/blog/intj-fit-in-tech/)**  
-*Personal reflection on cognitive fit for AI work*
-
 **[Agents vs. Automation Decision Framework](/blog/agents-vs-automation/)**  
 *When to use AI agents vs traditional automation*
 
