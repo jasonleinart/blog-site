@@ -4,7 +4,6 @@ cover: true
 selected_posts:
   - _posts/2025-08-03-personal-ai-strategy-framework.md
   - _posts/2025-08-03-intj-fit-in-tech.md
-  - _posts/2025-01-08-gpt-research-assistant-build.md
 more_projects: projects.md
 more_posts: posts.md
 featured: true
@@ -34,9 +33,6 @@ I organize my writing by format rather than topic, which lets ideas flow natural
 
 **[The Current Landscape of Multi-Agent AI Systems](/blog/multi-agent-ai-systems-landscape/)**  
 *A comprehensive overview of multi-agent AI systems, their architectures, and opportunities.*
-
-**[Building a GPT Research Assistant](/blog/gpt-research-assistant-build/)**  
-*Complete technical walkthrough of creating an AI research system using Airtable, Apify, and GPT integration.*
 
 **[AI Agents vs. Automation: A Decision Framework](/blog/agents-vs-automation/)**  
 *Strategic framework for understanding when to use AI agents versus traditional automation.*
