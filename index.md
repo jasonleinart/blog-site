@@ -11,7 +11,7 @@ featured: true
 
 I'm **Jason Leinart**, a marketing technologist bridging data, automation, and AI to build smarter systems. This is where I share practical frameworks, real implementations, and strategic insights from building at the intersection of marketing and artificial intelligence.
 
-## New to the AI Frontier?
+## New Here?
 
 Start with my **[comprehensive guide](/start-here/)** that walks you through my core thinking and best content. Or jump straight into the **[Three Horizons Philosophy](/three-horizons/)** — my framework for understanding how AI transforms work across personal, team, and organizational levels.
 
