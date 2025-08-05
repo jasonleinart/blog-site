@@ -24,7 +24,7 @@ theme_color: '#1e3a8a'
 featured: true
 ---
 
-## Overview
+## Nexus Letter AI Analyzer
 
 The Nexus Letter AI Analyzer is a production-ready AI-powered web application designed for disability law professionals to evaluate VA disability nexus letters. Built with real OpenAI GPT-4 integration, it provides comprehensive analysis, compliance scoring, and improvement recommendations for legal workflow optimization.
 
