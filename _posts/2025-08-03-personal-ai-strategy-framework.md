@@ -2,6 +2,9 @@
 layout: post
 title: "AI as OS: Transforming How You Interact With the Digital World"
 permalink: /blog/personal-ai/
+redirect_from:
+  - /blog/2025/08/03/personal-ai-strategy-framework/
+  - /2025/08/03/personal-ai-strategy-framework/
 date: 2025-08-03 09:00:00
 author: author1
 tags: [mental-models, personal-horizon, ai-strategy, productivity, cognitive-augmentation, personal-ai-os]
