@@ -116,23 +116,6 @@ The Three Horizons progression ensures systematic capability building: start wit
 
 ---
 
-## Get Started Today
-
-Your team-AI journey begins with honest assessment of current capabilities and systematic progression through the four levels of collaborative intelligence.
-
-**Essential Starting Questions:**
-1. **Current State**: Where is your team today on the four-level maturity progression?
-2. **Human Value**: What work should remain uniquely human in your team collaboration?
-3. **Coordination Gaps**: What could your team accomplish if coordination barriers disappeared?
-4. **Implementation Path**: Which progression strategy fits your team's context and goals?
-
-**Your First Steps:**
-1. **Establish shared AI capabilities** across your team members
-2. **Identify your first collaborative automation** opportunity
-3. **Design AI governance frameworks** that preserve human agency
-4. **Commit to systematic progression** rather than random tool adoption
-
-The competitive advantage goes to teams that build collaborative intelligence systematically. Start building your AI-amplified team today—the future belongs to teams that master human-AI collaboration rather than just human-human coordination.
 
 ---
 
