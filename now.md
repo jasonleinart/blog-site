@@ -7,11 +7,18 @@ description: >
 hide_description: false
 ---
 
+## 🤔 Open Questions I'm Exploring
+
+- **Agent vs. Automation:** What's the real difference, and when do you need each?
+- **Cognitive Amplification:** How can AI tools enhance rather than replace human thinking?
+- **System Reliability:** How do you build dependable systems when AI components are probabilistic?
+- **Career Evolution:** What skills matter most in an AI-augmented future of work?
+
+---
+
 ## 🎯 Current Sprint
 
 **Focus:** Building AI-powered research and automation workflows
-
-**Timeline:** January - March 2025
 
 ### Active Projects
 - **AI Research Assistant** - Building a GPT-powered system using Airtable + Apify for paper curation and analysis
@@ -31,15 +38,6 @@ hide_description: false
 - **Agentic AI** - How AI systems make decisions and take actions autonomously
 - **Cognitive Architectures** - Understanding how AI can augment human reasoning
 - **Systems Design** - Patterns for building reliable, scalable AI-powered systems
-
----
-
-## 🤔 Open Questions I'm Exploring
-
-1. **Agent vs. Automation:** What's the real difference, and when do you need each?
-2. **Cognitive Amplification:** How can AI tools enhance rather than replace human thinking?
-3. **System Reliability:** How do you build dependable systems when AI components are probabilistic?
-4. **Career Evolution:** What skills matter most in an AI-augmented future of work?
 
 ---
 
