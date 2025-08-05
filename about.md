@@ -1,8 +1,8 @@
 ---
 layout: about
 description: >
-  Jason Leinart: Marketing technologist bridging data, automation, and AI to build smarter systems.
-  Practical frameworks and strategic insights for the future of work.
+  Jason Leinart: Strategic framework developer building systematic thinking tools for AI integration.
+  Pattern recognition and predictive architecture for technological transformation.
 hide_description: true
 redirect_from:
   - /download/
@@ -10,42 +10,45 @@ redirect_from:
 
 # About 
 
-Marketing technologist bridging data, automation, and AI to build smarter systems. Strategic thinker focused on practical implementations.
+I build systematic frameworks for understanding complex technological transformations before they become obvious. My approach combines pattern recognition with rigorous analytical structure to create strategic thinking tools for early adopters.
 
 <!--author-->
 
-## Mission
+## Strategic Framework Development
 
-I'm building practical frameworks for AI integration in marketing and business operations—focusing on real implementations that deliver measurable results.
+The Three Horizons Philosophy maps the emerging patterns of AI integration across personal, team, and organizational levels. While few organizations operate at the highest maturity levels today, the systematic progression suggests predictable development trajectories that strategic thinkers can prepare for.
 
-The AI transformation is happening now, but most organizations struggle with the gap between AI potential and practical application. **I bridge that gap**—developing strategic frameworks, proven workflows, and actionable insights for marketing professionals navigating this transformation.
+**My approach:** Pattern recognition → systematic framework development → intellectual infrastructure for emerging realities. This methodology prioritizes logical coherence and predictive utility over exhaustive current-state proof, positioning early adopters with strategic advantage when patterns become widespread.
 
 **Current Focus areas:**
-- AWS cloud architecture and data infrastructure
+- Cloud architecture and data infrastructure
 - Marketing automation and AI agent workflows
 - Analytics systems and performance optimization
 - Strategic frameworks for human-AI collaboration
 
 ## Background & Evolution
 
-I bring deep experience in digital marketing and operations, where I've spent years optimizing systems and processes for growth-stage companies. Now I'm focused on integrating AI and automation into marketing workflows, driven by the conviction that these tools represent a fundamental shift in competitive advantage.
+I bring 9 years of marketing experience optimizing systems and processes for hospitality and home services companies, combined with academic background and deep research skills. Professional psychological profiling identifies me as a "Maverick" - an innovative, outside-the-box thinker undaunted by failure. My INTJ pattern recognition capabilities allow me to see technological transformation trajectories before they become obvious to the broader market.
 
+Currently pursuing AWS Solutions Architect certification and advancing technical capabilities through systematic study of cloud architecture, data analytics, and AI implementation patterns. This transition from marketing practitioner to strategic framework developer reflects the conviction that AI integration represents a fundamental shift requiring new analytical tools.
 
 ## Philosophy & Approach
 
-I believe AI's greatest potential lies in **strategic integration**—not replacing human expertise, but amplifying it through intelligent automation and data-driven insights. The most valuable applications aren't purely technical—they're about understanding business context, customer behavior, and competitive dynamics.
+**Predictive Architecture over Reactive Analysis:** I build intellectual infrastructure for emerging realities rather than documenting current states. This approach recognizes that strategic frameworks must map territories that don't fully exist yet but are inevitable based on systematic pattern recognition.
 
-This site is where I develop and share practical frameworks, document real implementations, and explore strategic insights for marketing professionals building with AI.
+**Human-AI Collaboration Focus:** AI's greatest potential lies in strategic amplification of human judgment, vision, and values—not replacement. The most valuable applications emerge from understanding how human-AI collaboration evolves across personal, team, and organizational levels.
+
+**Early-Adopter Strategic Positioning:** Organizations that develop systematic approaches to AI integration will achieve significant competitive advantages. This site develops the strategic thinking tools needed for effective navigation of this transformation.
 
 ## Connect & Collaborate
 
-I'm always interested in connecting with marketing professionals, technologists, and business leaders working at the intersection of AI, marketing, and automation:
+I'm always interested in connecting with strategic thinkers, technologists, and organizational leaders working on AI integration and systematic frameworks for technological transformation:
 
 **Email:** dspjson@gmail.com  
 **GitHub:** [@jasonleinart](https://github.com/jasonleinart)  
 **LinkedIn:** [Connect with me](https://linkedin.com/in/jason-leinart)
 
-If you're implementing AI in marketing, building automation systems, or developing strategic frameworks for AI integration, I'd love to hear from you.
+If you're developing strategic frameworks for AI adoption, building systematic approaches to technological transformation, or interested in pattern-based analysis of emerging technologies, I'd love to hear from you.
 
 ---
 
