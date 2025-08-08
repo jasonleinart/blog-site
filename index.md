@@ -13,7 +13,7 @@ I'm **Jason Leinart**, a marketing technologist bridging data, automation, and A
 
 ## New Here?
 
-Start with my **[comprehensive guide](/start-here/)** that walks you through my core thinking and best content. Or jump straight into the **[Three Horizons Philosophy](/three-horizons/)** — my framework for understanding how AI transforms work across personal, team, and organizational levels.
+Start with my **[comprehensive guide](/start-here/)** that walks you through my core thinking and best content. Or jump straight into the **[Three Horizons Philosophy](/three-horizons/)** — my framework for thinking about how AI will transform work across personal, team, and organizational levels.
 
 ## How I Write
 
@@ -50,7 +50,7 @@ I organize my writing by format rather than topic, which lets ideas flow natural
 
 ## Current Focus
 
-I'm currently deep in building AI-powered research and automation workflows, pursuing AWS certification, and exploring how AI can amplify rather than replace human intelligence. You can see what I'm working on right now on my **[Now page](/now/)**.
+I'm currently deep in building AI-powered research and automation workflows, studying for the AWS Solutions Architect certification, and exploring how AI can amplify rather than replace human intelligence. You can see what I'm working on right now on my **[Now page](/now/)**.
 
 ---
 
