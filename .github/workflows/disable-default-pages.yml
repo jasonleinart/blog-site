@@ -1,0 +1,14 @@
+name: Disable Default GitHub Pages
+
+on:
+  push:
+    branches: [ "master", "main" ]
+
+jobs:
+  disable-default-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Disable default GitHub Pages workflow
+        run: |
+          echo "This workflow exists to prevent the default GitHub Pages workflow from running"
+          echo "The actual site deployment is handled by the custom workflow in pages.yml"
