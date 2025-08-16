@@ -24,7 +24,6 @@ hide_description: false
 - **AI Research Assistant** - Building a GPT-powered system using Airtable + Apify for paper curation and analysis
 - **Automation Pipeline** - Creating Google Cloud Functions to automate CRM → BigQuery data flows
 - **Content System** - Developing this site as a testing ground for AI-assisted content creation and curation
-- **Chef Nam Catering Website** - Building a custom site for [chefnamcatering.com](https://chefnamcatering.com) using Astro + Sanity CMS, 100% coded with Claude Code (I don't know any HTML or CSS)
 
 ---
 
